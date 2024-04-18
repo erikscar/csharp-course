@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Curso C#\\PrimeiroPrograma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF1F9F3-6AAA-4186-82B7-3701BBD9D024}|PrimeiroPrograma\\PrimeiroPrograma.csproj|d:\\curso c#\\primeiroprograma\\primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF1F9F3-6AAA-4186-82B7-3701BBD9D024}|PrimeiroPrograma\\PrimeiroPrograma.csproj|solutionrelative:primeiroprograma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso C#\\PrimeiroPrograma\\PrimeiroPrograma\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiroPrograma\\Program.cs",
+              "ToolTip": "D:\\Curso C#\\PrimeiroPrograma\\PrimeiroPrograma\\Program.cs",
+              "RelativeToolTip": "PrimeiroPrograma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:52:56.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
