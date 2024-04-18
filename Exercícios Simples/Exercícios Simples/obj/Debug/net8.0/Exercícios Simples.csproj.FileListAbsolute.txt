@@ -1,0 +1,15 @@
+D:\Curso C#\Exercícios Simples\Exercícios Simples\bin\Debug\net8.0\Exercícios Simples.exe
+D:\Curso C#\Exercícios Simples\Exercícios Simples\bin\Debug\net8.0\Exercícios Simples.deps.json
+D:\Curso C#\Exercícios Simples\Exercícios Simples\bin\Debug\net8.0\Exercícios Simples.runtimeconfig.json
+D:\Curso C#\Exercícios Simples\Exercícios Simples\bin\Debug\net8.0\Exercícios Simples.dll
+D:\Curso C#\Exercícios Simples\Exercícios Simples\bin\Debug\net8.0\Exercícios Simples.pdb
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.AssemblyInfoInputs.cache
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.AssemblyInfo.cs
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.csproj.CoreCompileInputs.cache
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.sourcelink.json
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.dll
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\refint\Exercícios Simples.dll
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.pdb
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\Exercícios Simples.genruntimeconfig.cache
+D:\Curso C#\Exercícios Simples\Exercícios Simples\obj\Debug\net8.0\ref\Exercícios Simples.dll
