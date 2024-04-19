@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CsharpCourse\\csharp-course\\Exercícios Simples\\Exercícios Simples\\Exercícios Simples.csproj": {}
+    "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj": {}
   },
   "projects": {
-    "C:\\CsharpCourse\\csharp-course\\Exercícios Simples\\Exercícios Simples\\Exercícios Simples.csproj": {
+    "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CsharpCourse\\csharp-course\\Exercícios Simples\\Exercícios Simples\\Exercícios Simples.csproj",
-        "projectName": "Exercícios Simples",
-        "projectPath": "C:\\CsharpCourse\\csharp-course\\Exercícios Simples\\Exercícios Simples\\Exercícios Simples.csproj",
+        "projectUniqueName": "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj",
+        "projectName": "ExerciciosEstruturasCondicionais",
+        "projectPath": "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj",
         "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-        "outputPath": "C:\\CsharpCourse\\csharp-course\\Exercícios Simples\\Exercícios Simples\\obj\\",
+        "outputPath": "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
