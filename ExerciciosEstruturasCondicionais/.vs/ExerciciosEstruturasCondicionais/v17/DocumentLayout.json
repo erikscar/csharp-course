@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\",
+  "WorkspaceRootPath": "D:\\csharp-course\\ExerciciosEstruturasCondicionais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD6329E0-9770-4B14-9EE2-744052E5897C}|ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj|c:\\csharpcourse\\csharp-course\\exerciciosestruturascondicionais\\exerciciosestruturascondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD6329E0-9770-4B14-9EE2-744052E5897C}|ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj|d:\\csharp-course\\exerciciosestruturascondicionais\\exerciciosestruturascondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD6329E0-9770-4B14-9EE2-744052E5897C}|ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais.csproj|solutionrelative:exerciciosestruturascondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosEstruturasCondicionais\\Program.cs",
-              "ToolTip": "C:\\CsharpCourse\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\ExerciciosEstruturasCondicionais\\ExerciciosEstruturasCondicionais\\Program.cs",
               "RelativeToolTip": "ExerciciosEstruturasCondicionais\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAuwCwAAABEAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T17:38:04.64Z",
               "EditorCaption": ""
