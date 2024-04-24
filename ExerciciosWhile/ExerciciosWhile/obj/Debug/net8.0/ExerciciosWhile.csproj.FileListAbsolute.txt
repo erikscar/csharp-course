@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.exe
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.deps.json
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.runtimeconfig.json
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.dll
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\bin\Debug\net8.0\ExerciciosWhile.pdb
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.sourcelink.json
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.dll
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\refint\ExerciciosWhile.dll
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.pdb
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ExerciciosWhile.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\ExerciciosWhile\ExerciciosWhile\obj\Debug\net8.0\ref\ExerciciosWhile.dll
