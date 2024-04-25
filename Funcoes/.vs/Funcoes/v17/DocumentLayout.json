@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\Funcoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9395C6A8-5092-4B34-987D-547FA6DB29D8}|Funcoes\\Funcoes.csproj|c:\\csharpcourse\\csharp-course\\funcoes\\funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9395C6A8-5092-4B34-987D-547FA6DB29D8}|Funcoes\\Funcoes.csproj|solutionrelative:funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\Funcoes\\Funcoes\\Program.cs",
+              "RelativeDocumentMoniker": "Funcoes\\Program.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\Funcoes\\Funcoes\\Program.cs",
+              "RelativeToolTip": "Funcoes\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:29:45.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
