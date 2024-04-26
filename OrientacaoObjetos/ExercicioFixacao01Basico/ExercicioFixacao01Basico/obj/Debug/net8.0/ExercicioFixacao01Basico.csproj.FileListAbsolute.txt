@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\bin\Debug\net8.0\ExercicioFixacao01Basico.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\bin\Debug\net8.0\ExercicioFixacao01Basico.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\bin\Debug\net8.0\ExercicioFixacao01Basico.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\bin\Debug\net8.0\ExercicioFixacao01Basico.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\bin\Debug\net8.0\ExercicioFixacao01Basico.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\refint\ExercicioFixacao01Basico.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ExercicioFixacao01Basico.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercicioFixacao01Basico\ExercicioFixacao01Basico\obj\Debug\net8.0\ref\ExercicioFixacao01Basico.dll
