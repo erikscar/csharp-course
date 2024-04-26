@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\bin\Debug\net8.0\Metodos.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\bin\Debug\net8.0\Metodos.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\bin\Debug\net8.0\Metodos.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\bin\Debug\net8.0\Metodos.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Metodos\Metodos\obj\Debug\net8.0\ref\Metodos.dll
