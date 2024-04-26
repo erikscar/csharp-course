@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\ExercicioComOrientacaoObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01CD347-4A56-48EB-8020-8265F9EE6B0F}|ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos.csproj|c:\\csharpcourse\\csharp-course\\orientacaoobjetos\\exerciciocomorientacaoobjetos\\exerciciocomorientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01CD347-4A56-48EB-8020-8265F9EE6B0F}|ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos.csproj|solutionrelative:exerciciocomorientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01CD347-4A56-48EB-8020-8265F9EE6B0F}|ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos.csproj|c:\\csharpcourse\\csharp-course\\orientacaoobjetos\\exerciciocomorientacaoobjetos\\exerciciocomorientacaoobjetos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01CD347-4A56-48EB-8020-8265F9EE6B0F}|ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos.csproj|solutionrelative:exerciciocomorientacaoobjetos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ExercicioComOrientacaoObjetos\\Triangulo.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos\\Triangulo.cs",
+              "RelativeToolTip": "ExercicioComOrientacaoObjetos\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:34:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioComOrientacaoObjetos\\Program.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\ExercicioComOrientacaoObjetos\\ExercicioComOrientacaoObjetos\\Program.cs",
+              "RelativeToolTip": "ExercicioComOrientacaoObjetos\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:30:48.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
