@@ -1,0 +1,15 @@
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\bin\Debug\net8.0\ExemploDeProblema.exe
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\bin\Debug\net8.0\ExemploDeProblema.deps.json
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\bin\Debug\net8.0\ExemploDeProblema.runtimeconfig.json
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\bin\Debug\net8.0\ExemploDeProblema.dll
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\bin\Debug\net8.0\ExemploDeProblema.pdb
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.AssemblyInfoInputs.cache
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.AssemblyInfo.cs
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.csproj.CoreCompileInputs.cache
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.sourcelink.json
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.dll
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\refint\ExemploDeProblema.dll
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.pdb
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ExemploDeProblema.genruntimeconfig.cache
+D:\csharp-course\ExemploDeProblema\ExemploDeProblema\obj\Debug\net8.0\ref\ExemploDeProblema.dll

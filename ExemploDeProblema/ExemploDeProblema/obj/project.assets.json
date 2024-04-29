@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp-course\\OrientacaoObjetos\\Metodos\\Metodos\\Metodos.csproj",
-      "projectName": "Metodos",
-      "projectPath": "D:\\csharp-course\\OrientacaoObjetos\\Metodos\\Metodos\\Metodos.csproj",
+      "projectUniqueName": "D:\\csharp-course\\ExemploDeProblema\\ExemploDeProblema\\ExemploDeProblema.csproj",
+      "projectName": "ExemploDeProblema",
+      "projectPath": "D:\\csharp-course\\ExemploDeProblema\\ExemploDeProblema\\ExemploDeProblema.csproj",
       "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp-course\\OrientacaoObjetos\\Metodos\\Metodos\\obj\\",
+      "outputPath": "D:\\csharp-course\\ExemploDeProblema\\ExemploDeProblema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
