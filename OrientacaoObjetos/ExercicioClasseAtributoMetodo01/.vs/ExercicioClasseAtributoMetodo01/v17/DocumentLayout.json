@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3006E-4726-46F9-9A7F-0B1CF6232552}|ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01.csproj|d:\\csharp-course\\orientacaoobjetos\\exercicioclasseatributometodo01\\exercicioclasseatributometodo01\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3006E-4726-46F9-9A7F-0B1CF6232552}|ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01.csproj|solutionrelative:exercicioclasseatributometodo01\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3006E-4726-46F9-9A7F-0B1CF6232552}|ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01.csproj|d:\\csharp-course\\orientacaoobjetos\\exercicioclasseatributometodo01\\exercicioclasseatributometodo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3006E-4726-46F9-9A7F-0B1CF6232552}|ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01.csproj|solutionrelative:exercicioclasseatributometodo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01\\Retangulo.cs",
+              "RelativeDocumentMoniker": "ExercicioClasseAtributoMetodo01\\Retangulo.cs",
+              "ToolTip": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01\\Retangulo.cs",
+              "RelativeToolTip": "ExercicioClasseAtributoMetodo01\\Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:23:32.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioClasseAtributoMetodo01\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo01\\ExercicioClasseAtributoMetodo01\\Program.cs",
+              "RelativeToolTip": "ExercicioClasseAtributoMetodo01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:23:09.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
