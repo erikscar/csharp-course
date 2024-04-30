@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1968EF80-7A12-4509-929D-B9831EEA6565}|ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02.csproj|d:\\csharp-course\\orientacaoobjetos\\exercicioclasseatributometodo02\\exercicioclasseatributometodo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1968EF80-7A12-4509-929D-B9831EEA6565}|ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02.csproj|solutionrelative:exercicioclasseatributometodo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1968EF80-7A12-4509-929D-B9831EEA6565}|ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02.csproj|d:\\csharp-course\\orientacaoobjetos\\exercicioclasseatributometodo02\\exercicioclasseatributometodo02\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1968EF80-7A12-4509-929D-B9831EEA6565}|ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02.csproj|solutionrelative:exercicioclasseatributometodo02\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExercicioClasseAtributoMetodo02\\Funcionario.cs",
+              "ToolTip": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02\\Funcionario.cs",
+              "RelativeToolTip": "ExercicioClasseAtributoMetodo02\\Funcionario.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:48:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioClasseAtributoMetodo02\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioClasseAtributoMetodo02\\ExercicioClasseAtributoMetodo02\\Program.cs",
+              "RelativeToolTip": "ExercicioClasseAtributoMetodo02\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:42:55.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
