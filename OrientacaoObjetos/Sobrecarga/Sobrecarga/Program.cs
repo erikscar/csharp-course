@@ -18,6 +18,15 @@ namespace Sobrecarga
 
             Produto p2 = new Produto(); //Utilizando os construtores é necessário declarar um vazio para usar o padrão
             //Se não o C# Não Aceita
+
+            //Sintaxe Alternativa para Instanciar, porém é nécessário o construtor padrão
+            Produto p3 = new Produto()
+            {
+                Nome = "TV",
+                Preco = 900.00,
+                Quantidade = 10
+            };
+            
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
 

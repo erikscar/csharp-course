@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\refint\Encapsulamento.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Encapsulamento\Encapsulamento\obj\Debug\net8.0\ref\Encapsulamento.dll
