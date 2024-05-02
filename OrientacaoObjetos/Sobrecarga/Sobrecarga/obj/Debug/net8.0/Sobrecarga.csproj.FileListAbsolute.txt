@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\bin\Debug\net8.0\Sobrecarga.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\refint\Sobrecarga.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\Sobrecarga.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Sobrecarga\Sobrecarga\obj\Debug\net8.0\ref\Sobrecarga.dll
