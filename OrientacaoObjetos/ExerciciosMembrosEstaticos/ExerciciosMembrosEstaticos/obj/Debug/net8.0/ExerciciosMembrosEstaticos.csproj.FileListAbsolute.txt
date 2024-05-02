@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net8.0\ExerciciosMembrosEstaticos.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net8.0\ExerciciosMembrosEstaticos.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net8.0\ExerciciosMembrosEstaticos.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net8.0\ExerciciosMembrosEstaticos.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\net8.0\ExerciciosMembrosEstaticos.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\refint\ExerciciosMembrosEstaticos.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ExerciciosMembrosEstaticos.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\net8.0\ref\ExerciciosMembrosEstaticos.dll
