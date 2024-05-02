@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\bin\Debug\net8.0\Construtores.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\Construtores\Construtores\obj\Debug\net8.0\ref\Construtores.dll
