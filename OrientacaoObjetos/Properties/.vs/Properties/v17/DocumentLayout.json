@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C25330-7225-4EB2-AC88-4ECFD4C2DF6B}|Properties\\Properties.csproj|c:\\csharpcourse\\csharp-course\\orientacaoobjetos\\properties\\properties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C25330-7225-4EB2-AC88-4ECFD4C2DF6B}|Properties\\Properties.csproj|solutionrelative:properties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C25330-7225-4EB2-AC88-4ECFD4C2DF6B}|Properties\\Properties.csproj|c:\\csharpcourse\\csharp-course\\orientacaoobjetos\\properties\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C25330-7225-4EB2-AC88-4ECFD4C2DF6B}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\Properties\\Properties\\Produto.cs",
+              "RelativeDocumentMoniker": "Properties\\Produto.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\Properties\\Properties\\Produto.cs",
+              "RelativeToolTip": "Properties\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:07:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\Properties\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Properties\\Program.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\Properties\\Properties\\Program.cs",
+              "RelativeToolTip": "Properties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:57:02.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
