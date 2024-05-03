@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\bin\Debug\net8.0\AutoProperties.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\refint\AutoProperties.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\AutoProperties.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\AutoProperties\AutoProperties\obj\Debug\net8.0\ref\AutoProperties.dll

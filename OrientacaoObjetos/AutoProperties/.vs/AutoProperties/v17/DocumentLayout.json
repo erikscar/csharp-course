@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\AutoProperties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{139F6C03-89D1-4882-861A-E1B3D771E073}|AutoProperties\\AutoProperties.csproj|c:\\csharpcourse\\csharp-course\\orientacaoobjetos\\autoproperties\\autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139F6C03-89D1-4882-861A-E1B3D771E073}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139F6C03-89D1-4882-861A-E1B3D771E073}|AutoProperties\\AutoProperties.csproj|c:\\csharpcourse\\csharp-course\\orientacaoobjetos\\autoproperties\\autoproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139F6C03-89D1-4882-861A-E1B3D771E073}|AutoProperties\\AutoProperties.csproj|solutionrelative:autoproperties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\AutoProperties\\AutoProperties\\Produto.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Produto.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\AutoProperties\\AutoProperties\\Produto.cs",
+              "RelativeToolTip": "AutoProperties\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:50:28.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeDocumentMoniker": "AutoProperties\\Program.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\OrientacaoObjetos\\AutoProperties\\AutoProperties\\Program.cs",
+              "RelativeToolTip": "AutoProperties\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:40:22.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
