@@ -1,0 +1,15 @@
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\bin\Debug\net8.0\Struct.exe
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\bin\Debug\net8.0\Struct.deps.json
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\bin\Debug\net8.0\Struct.dll
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\bin\Debug\net8.0\Struct.pdb
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.dll
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\refint\Struct.dll
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.pdb
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+D:\csharp-course\OrientacaoObjetos\Struct\Struct\obj\Debug\net8.0\ref\Struct.dll

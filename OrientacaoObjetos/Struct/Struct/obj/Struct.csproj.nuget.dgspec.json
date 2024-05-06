@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp-course\\OrientacaoObjetos\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento.csproj": {}
+    "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Struct.csproj": {}
   },
   "projects": {
-    "D:\\csharp-course\\OrientacaoObjetos\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento.csproj": {
+    "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento.csproj",
-        "projectName": "ExercicioPropertyEncapsulamento",
-        "projectPath": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento.csproj",
+        "projectUniqueName": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Struct.csproj",
+        "projectName": "Struct",
+        "projectPath": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Struct.csproj",
         "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp-course\\OrientacaoObjetos\\ExercicioPropertyEncapsulamento\\ExercicioPropertyEncapsulamento\\obj\\",
+        "outputPath": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

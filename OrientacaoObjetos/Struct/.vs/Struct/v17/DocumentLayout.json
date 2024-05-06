@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CBB4C3-7150-4DD9-94A5-301135F56280}|Struct\\Struct.csproj|d:\\csharp-course\\orientacaoobjetos\\struct\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CBB4C3-7150-4DD9-94A5-301135F56280}|Struct\\Struct.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CBB4C3-7150-4DD9-94A5-301135F56280}|Struct\\Struct.csproj|d:\\csharp-course\\orientacaoobjetos\\struct\\struct\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CBB4C3-7150-4DD9-94A5-301135F56280}|Struct\\Struct.csproj|solutionrelative:struct\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Point.cs",
+              "RelativeDocumentMoniker": "Struct\\Point.cs",
+              "ToolTip": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Point.cs",
+              "RelativeToolTip": "Struct\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:59:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Program.cs",
+              "RelativeDocumentMoniker": "Struct\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\OrientacaoObjetos\\Struct\\Struct\\Program.cs",
+              "RelativeToolTip": "Struct\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:58:55.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5,9 +5,8 @@ namespace ExercicioPropertyEncapsulamento
     internal class Conta
     {
         public int NumeroConta { get; private set; }
-        private string _titular;
+        public string Titular { get; set; }
         public double Saldo { get; private set; }
-
 
         public Conta(int numero, string titular)
         {
@@ -16,18 +15,7 @@ namespace ExercicioPropertyEncapsulamento
         }
         public Conta (int numero, string titular, double deposito) : this (numero, titular)
         {
-            Saldo = deposito;
-        }
-
-        public string Titular {
-            get { return _titular; }
-            set
-            {
-                if (value != null && value.Length > 0)
-                {
-                    _titular = value;
-                }
-            }
+            Deposito(deposito); //Usar a Função Deposito já que ela funciona para os depósitos
         }
 
         public void Deposito (double deposito)
