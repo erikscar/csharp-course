@@ -1,0 +1,15 @@
+D:\csharp-course\Nullable\Nullable\bin\Debug\net8.0\Nullable.exe
+D:\csharp-course\Nullable\Nullable\bin\Debug\net8.0\Nullable.deps.json
+D:\csharp-course\Nullable\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+D:\csharp-course\Nullable\Nullable\bin\Debug\net8.0\Nullable.dll
+D:\csharp-course\Nullable\Nullable\bin\Debug\net8.0\Nullable.pdb
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.sourcelink.json
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.dll
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.pdb
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+D:\csharp-course\Nullable\Nullable\obj\Debug\net8.0\ref\Nullable.dll
