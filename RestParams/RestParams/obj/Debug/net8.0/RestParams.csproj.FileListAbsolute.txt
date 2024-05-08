@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\RestParams\RestParams\bin\Debug\net8.0\RestParams.exe
+C:\CsharpCourse\csharp-course\RestParams\RestParams\bin\Debug\net8.0\RestParams.deps.json
+C:\CsharpCourse\csharp-course\RestParams\RestParams\bin\Debug\net8.0\RestParams.runtimeconfig.json
+C:\CsharpCourse\csharp-course\RestParams\RestParams\bin\Debug\net8.0\RestParams.dll
+C:\CsharpCourse\csharp-course\RestParams\RestParams\bin\Debug\net8.0\RestParams.pdb
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.sourcelink.json
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.dll
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\refint\RestParams.dll
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.pdb
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\RestParams.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\RestParams\RestParams\obj\Debug\net8.0\ref\RestParams.dll

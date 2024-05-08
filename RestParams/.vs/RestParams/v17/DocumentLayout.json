@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\RestParams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94467CF5-6C33-4163-BD0F-B6D8396A879F}|RestParams\\RestParams.csproj|c:\\csharpcourse\\csharp-course\\restparams\\restparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94467CF5-6C33-4163-BD0F-B6D8396A879F}|RestParams\\RestParams.csproj|solutionrelative:restparams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94467CF5-6C33-4163-BD0F-B6D8396A879F}|RestParams\\RestParams.csproj|c:\\csharpcourse\\csharp-course\\restparams\\restparams\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94467CF5-6C33-4163-BD0F-B6D8396A879F}|RestParams\\RestParams.csproj|solutionrelative:restparams\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\RestParams\\RestParams\\Calculator.cs",
+              "RelativeDocumentMoniker": "RestParams\\Calculator.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\RestParams\\RestParams\\Calculator.cs",
+              "RelativeToolTip": "RestParams\\Calculator.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwBgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:34:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\RestParams\\RestParams\\Program.cs",
+              "RelativeDocumentMoniker": "RestParams\\Program.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\RestParams\\RestParams\\Program.cs",
+              "RelativeToolTip": "RestParams\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:31:27.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
