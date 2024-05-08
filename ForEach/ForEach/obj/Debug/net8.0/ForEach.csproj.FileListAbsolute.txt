@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.sourcelink.json
+C:\CsharpCourse\csharp-course\ForEach\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\CsharpCourse\csharp-course\ForEach\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\CsharpCourse\csharp-course\ForEach\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\CsharpCourse\csharp-course\ForEach\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\CsharpCourse\csharp-course\ForEach\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\ForEach\ForEach\obj\Debug\net8.0\ref\ForEach.dll
