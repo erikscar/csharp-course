@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\RefOut\RefOut\bin\Debug\net8.0\RefOut.exe
+C:\CsharpCourse\csharp-course\RefOut\RefOut\bin\Debug\net8.0\RefOut.deps.json
+C:\CsharpCourse\csharp-course\RefOut\RefOut\bin\Debug\net8.0\RefOut.runtimeconfig.json
+C:\CsharpCourse\csharp-course\RefOut\RefOut\bin\Debug\net8.0\RefOut.dll
+C:\CsharpCourse\csharp-course\RefOut\RefOut\bin\Debug\net8.0\RefOut.pdb
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.sourcelink.json
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.dll
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\refint\RefOut.dll
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.pdb
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\RefOut.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\RefOut\RefOut\obj\Debug\net8.0\ref\RefOut.dll
