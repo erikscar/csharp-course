@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\bin\Debug\net8.0\ExercícioVetores.exe
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\bin\Debug\net8.0\ExercícioVetores.deps.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\bin\Debug\net8.0\ExercícioVetores.runtimeconfig.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\bin\Debug\net8.0\ExercícioVetores.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\bin\Debug\net8.0\ExercícioVetores.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.sourcelink.json
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\refint\ExercícioVetores.dll
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.pdb
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ExercícioVetores.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\OrientacaoObjetos\ExercícioVetores\ExercícioVetores\obj\Debug\net8.0\ref\ExercícioVetores.dll
