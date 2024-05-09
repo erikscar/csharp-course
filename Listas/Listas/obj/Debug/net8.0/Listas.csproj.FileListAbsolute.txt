@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\Listas\Listas\bin\Debug\net8.0\Listas.exe
+C:\CsharpCourse\csharp-course\Listas\Listas\bin\Debug\net8.0\Listas.deps.json
+C:\CsharpCourse\csharp-course\Listas\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+C:\CsharpCourse\csharp-course\Listas\Listas\bin\Debug\net8.0\Listas.dll
+C:\CsharpCourse\csharp-course\Listas\Listas\bin\Debug\net8.0\Listas.pdb
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.dll
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\refint\Listas.dll
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.pdb
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\Listas\Listas\obj\Debug\net8.0\ref\Listas.dll
