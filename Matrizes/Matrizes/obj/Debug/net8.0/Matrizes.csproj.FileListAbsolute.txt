@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.exe
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.deps.json
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.runtimeconfig.json
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.dll
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\bin\Debug\net8.0\Matrizes.pdb
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.sourcelink.json
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.dll
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\refint\Matrizes.dll
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.pdb
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\Matrizes.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\Matrizes\Matrizes\obj\Debug\net8.0\ref\Matrizes.dll
