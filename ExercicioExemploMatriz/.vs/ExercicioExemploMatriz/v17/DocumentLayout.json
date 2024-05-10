@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CsharpCourse\\csharp-course\\ExercicioExemploMatriz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7B7CE3-4A8D-4BF2-B9DF-88ADED10762C}|ExercicioExemploMatriz\\ExercicioExemploMatriz.csproj|c:\\csharpcourse\\csharp-course\\exercicioexemplomatriz\\exercicioexemplomatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7B7CE3-4A8D-4BF2-B9DF-88ADED10762C}|ExercicioExemploMatriz\\ExercicioExemploMatriz.csproj|solutionrelative:exercicioexemplomatriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CsharpCourse\\csharp-course\\ExercicioExemploMatriz\\ExercicioExemploMatriz\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioExemploMatriz\\Program.cs",
+              "ToolTip": "C:\\CsharpCourse\\csharp-course\\ExercicioExemploMatriz\\ExercicioExemploMatriz\\Program.cs",
+              "RelativeToolTip": "ExercicioExemploMatriz\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:38:19.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
