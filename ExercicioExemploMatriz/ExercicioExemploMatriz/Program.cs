@@ -17,10 +17,18 @@
                 }
             }
 
+            Console.WriteLine("Main Diagonal");
+            for(int i = 0; i < N; i++)
+            {
+                Console.Write(mat[i, i] + " ");
+            }
+            Console.WriteLine();
+
             int counter = 0;
 
-            for (int i = 0; counter < N; i++) {
-                for (int j = 0; counter < N; j++)
+            //Forma Mais Simples de percorrer um matriz
+            for (int i = 0; i < N; i++) {
+                for (int j = 0; j < N; j++)
                 {
                     if (mat[i, j] < 0)
                     {
@@ -28,6 +36,7 @@
                     }
                 }
             }
+            Console.WriteLine("Negative Numbers: " + counter);
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\bin\Debug\net8.0\ExercicioExemploMatriz.exe
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\bin\Debug\net8.0\ExercicioExemploMatriz.deps.json
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\bin\Debug\net8.0\ExercicioExemploMatriz.runtimeconfig.json
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\bin\Debug\net8.0\ExercicioExemploMatriz.dll
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\bin\Debug\net8.0\ExercicioExemploMatriz.pdb
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.sourcelink.json
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.dll
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\refint\ExercicioExemploMatriz.dll
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.pdb
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ExercicioExemploMatriz.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\ExercicioExemploMatriz\ExercicioExemploMatriz\obj\Debug\net8.0\ref\ExercicioExemploMatriz.dll
