@@ -1,0 +1,15 @@
+D:\csharp-course\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+D:\csharp-course\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+D:\csharp-course\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+D:\csharp-course\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+D:\csharp-course\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.sourcelink.json
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+D:\csharp-course\SwitchCase\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll
