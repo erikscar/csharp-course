@@ -1,0 +1,15 @@
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.exe
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.deps.json
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.runtimeconfig.json
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.dll
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\bin\Debug\net8.0\ExercicioMatrizes.pdb
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfoInputs.cache
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.AssemblyInfo.cs
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.sourcelink.json
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.dll
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\refint\ExercicioMatrizes.dll
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.pdb
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ExercicioMatrizes.genruntimeconfig.cache
+D:\csharp-course\ExercicioMatrizes\ExercicioMatrizes\obj\Debug\net8.0\ref\ExercicioMatrizes.dll
