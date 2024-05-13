@@ -17,6 +17,12 @@
             Console.WriteLine(x);
             Console.WriteLine(y);
             Console.WriteLine(w);
+
+            //Muito fácil de usar, evitando termos que declarar tipos complexos
+            //Porém tomar cuidado com possíveis erros como: 
+
+            //O compilador não irá acusar assim se tornando muito livre algo que pode gerar erros
+            var k = y;
         }
     }
 }
