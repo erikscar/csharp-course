@@ -43,8 +43,10 @@
             //}
             //Console.WriteLine("Day: " + day);
 
+            //Sintaxe Reduzida e Mais légivel
             int x = int.Parse(Console.ReadLine());
             string day;
+
             switch (x)
             {
                 case 1:
@@ -72,6 +74,7 @@
                     day = "Invalid value";
                     break;
             }
+
             Console.WriteLine("Day: " + day);
         }
     }

@@ -1,0 +1,15 @@
+D:\csharp-course\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.exe
+D:\csharp-course\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.deps.json
+D:\csharp-course\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.runtimeconfig.json
+D:\csharp-course\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.dll
+D:\csharp-course\IfTernario\IfTernario\bin\Debug\net8.0\IfTernario.pdb
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.AssemblyInfoInputs.cache
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.AssemblyInfo.cs
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.csproj.CoreCompileInputs.cache
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.sourcelink.json
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.dll
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\refint\IfTernario.dll
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.pdb
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\IfTernario.genruntimeconfig.cache
+D:\csharp-course\IfTernario\IfTernario\obj\Debug\net8.0\ref\IfTernario.dll
