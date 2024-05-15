@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\bin\Debug\net8.0\TimeSpan1.exe
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\bin\Debug\net8.0\TimeSpan1.deps.json
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\bin\Debug\net8.0\TimeSpan1.runtimeconfig.json
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\bin\Debug\net8.0\TimeSpan1.dll
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\bin\Debug\net8.0\TimeSpan1.pdb
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.sourcelink.json
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.dll
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\refint\TimeSpan1.dll
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.pdb
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\TimeSpan1.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\TimeSpan1\TimeSpan1\obj\Debug\net8.0\ref\TimeSpan1.dll
