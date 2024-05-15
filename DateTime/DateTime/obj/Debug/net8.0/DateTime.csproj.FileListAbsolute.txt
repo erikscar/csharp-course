@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\DateTime\DateTime\bin\Debug\net8.0\DateTime.exe
+C:\CsharpCourse\csharp-course\DateTime\DateTime\bin\Debug\net8.0\DateTime.deps.json
+C:\CsharpCourse\csharp-course\DateTime\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+C:\CsharpCourse\csharp-course\DateTime\DateTime\bin\Debug\net8.0\DateTime.dll
+C:\CsharpCourse\csharp-course\DateTime\DateTime\bin\Debug\net8.0\DateTime.pdb
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.sourcelink.json
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.dll
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.pdb
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\DateTime\DateTime\obj\Debug\net8.0\ref\DateTime.dll
