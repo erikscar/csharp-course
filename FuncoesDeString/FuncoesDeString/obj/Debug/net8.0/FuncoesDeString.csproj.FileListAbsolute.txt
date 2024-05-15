@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\bin\Debug\net8.0\FuncoesDeString.exe
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\bin\Debug\net8.0\FuncoesDeString.deps.json
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\bin\Debug\net8.0\FuncoesDeString.runtimeconfig.json
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\bin\Debug\net8.0\FuncoesDeString.dll
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\bin\Debug\net8.0\FuncoesDeString.pdb
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.sourcelink.json
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.dll
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\refint\FuncoesDeString.dll
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.pdb
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\FuncoesDeString.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\FuncoesDeString\FuncoesDeString\obj\Debug\net8.0\ref\FuncoesDeString.dll
