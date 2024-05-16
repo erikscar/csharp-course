@@ -45,6 +45,33 @@
             Console.WriteLine("d6ToLocal: " + d6.ToLocalTime());
             Console.WriteLine("d6 ToUtc: " + d6.ToUniversalTime());
             Console.WriteLine();
+
+            Console.WriteLine("\nEXEMPLOS PADRÃO ISO\n");
+            //PADRÃO ISO 8601
+
+            //Formato: yyyy-MM-ddTHH:mm:ssZ
+            //Z indica que a data esta armazenada em formato de String e em UTC
+
+            DateTime da1 = DateTime.Parse("2000-08-15 13:05:58");
+            DateTime da2 = DateTime.Parse("2000-08-15T13:05:58Z"); //Irá transformar em UTC
+
+            Console.WriteLine("da1: " + da1);
+            Console.WriteLine("da1 Kind: " + da1.Kind);
+            Console.WriteLine("da1 ToLocalTime: " + da1.ToLocalTime());
+            Console.WriteLine("da1 ToUniversalTime/UTC: " + da1.ToUniversalTime());
+            Console.WriteLine();
+
+            Console.WriteLine("da2: " + da2);
+            Console.WriteLine("da2 Kind: " + da2.Kind);
+            Console.WriteLine("da2 ToLocalTime: " + da2.ToLocalTime());
+            Console.WriteLine("da2 ToUniversalTime/UTC: " + da2.ToUniversalTime());
+            Console.WriteLine();
+
+            //Não Utilizar essa forma
+            //Console.WriteLine(d2.ToString("yyyy-MM-ddTHH:mm:ssZ"));
+
+            //UTilizar desse modo é mais correto, se não irá dar errado
+            Console.WriteLine(d2.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ"));
         }
     }
 }

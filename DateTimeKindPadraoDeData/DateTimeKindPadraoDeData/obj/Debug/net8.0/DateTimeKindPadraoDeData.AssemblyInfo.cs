@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateTimeKindPadraoDeData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f6a94504da562007e6946214adb1c20588e77a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc9cd6a146e3aa3adb14abd15c0eddafeadb954")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateTimeKindPadraoDeData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateTimeKindPadraoDeData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
