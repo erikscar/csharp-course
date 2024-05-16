@@ -1,0 +1,15 @@
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\bin\Debug\net8.0\DateTimeKindPadraoDeData.exe
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\bin\Debug\net8.0\DateTimeKindPadraoDeData.deps.json
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\bin\Debug\net8.0\DateTimeKindPadraoDeData.runtimeconfig.json
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\bin\Debug\net8.0\DateTimeKindPadraoDeData.dll
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\bin\Debug\net8.0\DateTimeKindPadraoDeData.pdb
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.AssemblyInfoInputs.cache
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.AssemblyInfo.cs
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.csproj.CoreCompileInputs.cache
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.sourcelink.json
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.dll
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\refint\DateTimeKindPadraoDeData.dll
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.pdb
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\DateTimeKindPadraoDeData.genruntimeconfig.cache
+C:\CsharpCourse\csharp-course\DateTimeKindPadraoDeData\DateTimeKindPadraoDeData\obj\Debug\net8.0\ref\DateTimeKindPadraoDeData.dll
