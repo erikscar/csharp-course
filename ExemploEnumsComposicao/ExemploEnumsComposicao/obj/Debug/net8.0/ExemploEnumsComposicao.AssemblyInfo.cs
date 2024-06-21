@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExemploEnumsComposicao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae5a59895d03d9706868a9ad541cd2e528a6e63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fb68f691e1abe11ec00fd7bf32ab58bc18f541d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExemploEnumsComposicao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExemploEnumsComposicao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

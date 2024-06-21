@@ -1,0 +1,5 @@
+C:\csharp-course\ExemploEnumsComposicao\ExemploEnumsComposicao\obj\Debug\net8.0\ExemploEnumsComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-course\ExemploEnumsComposicao\ExemploEnumsComposicao\obj\Debug\net8.0\ExemploEnumsComposicao.AssemblyInfoInputs.cache
+C:\csharp-course\ExemploEnumsComposicao\ExemploEnumsComposicao\obj\Debug\net8.0\ExemploEnumsComposicao.AssemblyInfo.cs
+C:\csharp-course\ExemploEnumsComposicao\ExemploEnumsComposicao\obj\Debug\net8.0\ExemploEnumsComposicao.csproj.CoreCompileInputs.cache
+C:\csharp-course\ExemploEnumsComposicao\ExemploEnumsComposicao\obj\Debug\net8.0\ExemploEnumsComposicao.sourcelink.json
