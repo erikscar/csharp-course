@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj": {}
+    "D:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj": {}
   },
   "projects": {
-    "C:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj": {
+    "D:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj",
+        "projectUniqueName": "D:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj",
         "projectName": "ExemploEnumsComposicao",
-        "projectPath": "C:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj",
+        "projectPath": "D:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\ExemploEnumsComposicao.csproj",
         "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\obj\\",
+        "outputPath": "D:\\csharp-course\\ExemploEnumsComposicao\\ExemploEnumsComposicao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,7 +15,7 @@ namespace ExemploEnumsComposicao
             Console.Write("Name: ");
             string wName = Console.ReadLine();
 
-            Console.Write("Level (Junior / MidLevel / Senior");
+            Console.Write("Level (Junior / MidLevel / Senior): ");
             WorkerLevel wLevel = Enum.Parse<WorkerLevel>(Console.ReadLine());
 
             Console.Write("Base Salary: ");
@@ -28,7 +28,7 @@ namespace ExemploEnumsComposicao
             Console.Write("How Many Contracts to This Worker? ");
             int n = int.Parse(Console.ReadLine());
           
-            for (int i = 0; i <= n; i++) 
+            for (int i = 0; i < n; i++) 
             {
                 Console.WriteLine($"Enter #{i} Contract Data: ");
                 Console.Write("Date (DD/MM/YYYY): ");
@@ -46,7 +46,7 @@ namespace ExemploEnumsComposicao
             }
 
             Console.WriteLine();
-            Console.Write("Enter a Month and Year to Calculate Income (MM/YYYY)");
+            Console.Write("Enter a Month and Year to Calculate Income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine();
             int month = int.Parse(monthAndYear.Substring(0, 2));
             int year = int.Parse(monthAndYear.Substring(3));
