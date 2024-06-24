@@ -1,0 +1,15 @@
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\bin\Debug\net8.0\ExercicioEnumsComposicao.exe
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\bin\Debug\net8.0\ExercicioEnumsComposicao.deps.json
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\bin\Debug\net8.0\ExercicioEnumsComposicao.runtimeconfig.json
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\bin\Debug\net8.0\ExercicioEnumsComposicao.dll
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\bin\Debug\net8.0\ExercicioEnumsComposicao.pdb
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.AssemblyInfoInputs.cache
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.AssemblyInfo.cs
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.csproj.CoreCompileInputs.cache
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.sourcelink.json
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.dll
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\refint\ExercicioEnumsComposicao.dll
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.pdb
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ExercicioEnumsComposicao.genruntimeconfig.cache
+D:\csharp-course\ExercicioEnumsComposicao\ExercicioEnumsComposicao\obj\Debug\net8.0\ref\ExercicioEnumsComposicao.dll
