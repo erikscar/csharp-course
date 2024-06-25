@@ -43,28 +43,14 @@ namespace ExercicioEnumsComposicao.Entities
             StringBuilder stringBuilder = new StringBuilder();
 
             stringBuilder.AppendLine("Order Summary: ");
-            stringBuilder.Append("Order Moment: ");
-            stringBuilder.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-            stringBuilder.Append("Order Status: ");
-            stringBuilder.AppendLine(Status.ToString());
-            stringBuilder.Append(Client.Name);
-            stringBuilder.Append(' ');
-            stringBuilder.Append(Client.BirthDate.ToString("dd/MM/yyyy"));
-            stringBuilder.Append(" - ");
-            stringBuilder.AppendLine(Client.Email);
+            stringBuilder.AppendLine("Order Moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            stringBuilder.AppendLine("Order Status: " + Status.ToString());
+            stringBuilder.AppendLine("Client: " + Client);
             stringBuilder.AppendLine("Order Items: ");
 
             foreach(OrderItem item in Items)
             {
-                stringBuilder.Append(item.Product.Name);
-                stringBuilder.Append(", $");
-                stringBuilder.Append(item.Price.ToString("F2", CultureInfo.InvariantCulture));
-                stringBuilder.Append(", ");
-                stringBuilder.Append("Quantity: ");
-                stringBuilder.Append(item.Quantity);
-                stringBuilder.Append(", ");
-                stringBuilder.Append("Subtotal: $");
-                stringBuilder.AppendLine(item.SubTotal().ToString("F2", CultureInfo.InvariantCulture));
+                stringBuilder.AppendLine(item.ToString());
             }
             stringBuilder.Append("Total Price: $");
             stringBuilder.AppendLine(Total().ToString("F2", CultureInfo.InvariantCulture));

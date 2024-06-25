@@ -1,4 +1,6 @@
-﻿namespace ExercicioEnumsComposicao.Entities
+﻿using System.Globalization;
+
+namespace ExercicioEnumsComposicao.Entities
 {
     internal class OrderItem
     {
@@ -16,6 +18,11 @@
         public double SubTotal()
         {
             return Quantity * Price;
+        }
+
+        public override string ToString()
+        {
+            return Product.Name + ", $" + Price + ", Quantity: " + Quantity + ", Subtotal: $" + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
