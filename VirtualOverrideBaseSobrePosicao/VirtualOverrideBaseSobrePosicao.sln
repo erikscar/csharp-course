@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualOverrideBaseSobrePosicao", "VirtualOverrideBaseSobrePosicao\VirtualOverrideBaseSobrePosicao.csproj", "{3162842E-C90B-4D95-995B-8B487E2A9EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3162842E-C90B-4D95-995B-8B487E2A9EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3162842E-C90B-4D95-995B-8B487E2A9EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3162842E-C90B-4D95-995B-8B487E2A9EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3162842E-C90B-4D95-995B-8B487E2A9EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87516EED-BD63-40DE-A316-4481C1216035}
+	EndGlobalSection
+EndGlobal

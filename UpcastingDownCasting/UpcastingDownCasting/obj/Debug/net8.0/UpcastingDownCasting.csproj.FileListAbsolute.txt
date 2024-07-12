@@ -1,0 +1,15 @@
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\bin\Debug\net8.0\UpcastingDownCasting.exe
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\bin\Debug\net8.0\UpcastingDownCasting.deps.json
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\bin\Debug\net8.0\UpcastingDownCasting.runtimeconfig.json
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\bin\Debug\net8.0\UpcastingDownCasting.dll
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\bin\Debug\net8.0\UpcastingDownCasting.pdb
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.AssemblyInfoInputs.cache
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.AssemblyInfo.cs
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.csproj.CoreCompileInputs.cache
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.sourcelink.json
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.dll
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\refint\UpcastingDownCasting.dll
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.pdb
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\UpcastingDownCasting.genruntimeconfig.cache
+C:\csharp-course\UpcastingDownCasting\UpcastingDownCasting\obj\Debug\net8.0\ref\UpcastingDownCasting.dll
