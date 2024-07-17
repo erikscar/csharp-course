@@ -1,0 +1,15 @@
+C:\csharp-course\Abstração\Abstração\bin\Debug\net8.0\Abstração.exe
+C:\csharp-course\Abstração\Abstração\bin\Debug\net8.0\Abstração.deps.json
+C:\csharp-course\Abstração\Abstração\bin\Debug\net8.0\Abstração.runtimeconfig.json
+C:\csharp-course\Abstração\Abstração\bin\Debug\net8.0\Abstração.dll
+C:\csharp-course\Abstração\Abstração\bin\Debug\net8.0\Abstração.pdb
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.AssemblyInfoInputs.cache
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.AssemblyInfo.cs
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.csproj.CoreCompileInputs.cache
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.sourcelink.json
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.dll
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\refint\Abstração.dll
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.pdb
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\Abstração.genruntimeconfig.cache
+C:\csharp-course\Abstração\Abstração\obj\Debug\net8.0\ref\Abstração.dll

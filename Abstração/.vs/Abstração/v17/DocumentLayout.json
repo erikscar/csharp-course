@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|c:\\csharp-course\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|c:\\csharp-course\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|c:\\csharp-course\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|c:\\csharp-course\\abstra\u00E7\u00E3o\\abstra\u00E7\u00E3o\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F030F4-0910-4CCB-B9FF-803F7969F966}|Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o.csproj|solutionrelative:abstra\u00E7\u00E3o\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "Abstra\u00E7\u00E3o\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "Abstra\u00E7\u00E3o\\Entities\\BusinessAccount.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:02:48.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Abstra\u00E7\u00E3o\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "Abstra\u00E7\u00E3o\\Entities\\SavingsAccount.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:00:25.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Abstra\u00E7\u00E3o\\Entities\\Account.cs",
+              "ToolTip": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Entities\\Account.cs",
+              "RelativeToolTip": "Abstra\u00E7\u00E3o\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:57:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Abstra\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\csharp-course\\Abstra\u00E7\u00E3o\\Abstra\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Abstra\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:39:26.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
