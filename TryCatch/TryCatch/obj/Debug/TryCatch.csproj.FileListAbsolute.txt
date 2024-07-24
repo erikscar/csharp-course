@@ -1,0 +1,7 @@
+C:\csharp-course\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\csharp-course\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\csharp-course\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\csharp-course\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\csharp-course\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\csharp-course\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\csharp-course\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
