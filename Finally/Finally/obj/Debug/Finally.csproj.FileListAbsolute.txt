@@ -1,0 +1,7 @@
+C:\csharp-course\Finally\Finally\bin\Debug\Finally.exe.config
+C:\csharp-course\Finally\Finally\bin\Debug\Finally.exe
+C:\csharp-course\Finally\Finally\bin\Debug\Finally.pdb
+C:\csharp-course\Finally\Finally\obj\Debug\Finally.csproj.AssemblyReference.cache
+C:\csharp-course\Finally\Finally\obj\Debug\Finally.csproj.CoreCompileInputs.cache
+C:\csharp-course\Finally\Finally\obj\Debug\Finally.exe
+C:\csharp-course\Finally\Finally\obj\Debug\Finally.pdb
