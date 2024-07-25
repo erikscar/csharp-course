@@ -1,0 +1,7 @@
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\ExcecaoPersonalizada.exe.config
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\ExcecaoPersonalizada.exe
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\bin\Debug\ExcecaoPersonalizada.pdb
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\ExcecaoPersonalizada.csproj.AssemblyReference.cache
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\ExcecaoPersonalizada.csproj.CoreCompileInputs.cache
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\ExcecaoPersonalizada.exe
+C:\csharp-course\Exceções\ExcecaoPersonalizada\ExcecaoPersonalizada\obj\Debug\ExcecaoPersonalizada.pdb
