@@ -1,0 +1,7 @@
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\bin\Debug\ExcecoesSolucao1.exe.config
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\bin\Debug\ExcecoesSolucao1.exe
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\bin\Debug\ExcecoesSolucao1.pdb
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\obj\Debug\ExcecoesSolucao1.csproj.AssemblyReference.cache
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\obj\Debug\ExcecoesSolucao1.csproj.CoreCompileInputs.cache
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\obj\Debug\ExcecoesSolucao1.exe
+C:\csharp-course\Exceções\ExcecoesSolucao1\ExcecoesSolucao1\obj\Debug\ExcecoesSolucao1.pdb
