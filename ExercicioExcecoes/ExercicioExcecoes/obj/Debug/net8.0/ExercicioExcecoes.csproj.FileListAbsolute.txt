@@ -1,0 +1,15 @@
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.AssemblyInfoInputs.cache
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.AssemblyInfo.cs
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.csproj.CoreCompileInputs.cache
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.sourcelink.json
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.exe
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.deps.json
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.runtimeconfig.json
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.dll
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.pdb
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.dll
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\refint\ExercicioExcecoes.dll
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.pdb
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.genruntimeconfig.cache
+D:\csharp-course\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ref\ExercicioExcecoes.dll
