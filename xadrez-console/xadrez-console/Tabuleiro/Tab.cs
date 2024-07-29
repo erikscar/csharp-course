@@ -20,5 +20,12 @@
             //Retornando uma Peça porque a Propriedade esta privada!
             return Pecas[linha, coluna];
         }
+
+        public void InserirPeca(Peca peca, Posicao posicao)
+        {
+            //Inserindo uma Peca, na matriz de Pecas
+            Pecas[posicao.Linha, posicao.Coluna] = peca;
+            peca.Posicao = posicao;
+        }
     }
 }
