@@ -1,4 +1,6 @@
-﻿namespace xadrez_console.Tabuleiro
+﻿using xadrez_console.Tabuleiro.Exceptions;
+
+namespace xadrez_console.Tabuleiro
 {
     internal class Tab
     {
@@ -21,11 +23,43 @@
             return Pecas[linha, coluna];
         }
 
+        //Mesmo método de cima porém agora recebendo uma instancia de posição
+        public Peca Peca(Posicao posicao)
+        {
+            return Pecas[posicao.Linha, posicao.Coluna];
+        }
+
+        //Verificando se a peça existe, mas antes verificando se é uma posição válida
+        public bool ExistePeca(Posicao posicao)
+        {
+            ValidarPosicao(posicao);
+            return Peca(posicao) != null;
+        }
+
         public void InserirPeca(Peca peca, Posicao posicao)
         {
             //Inserindo uma Peca, na matriz de Pecas
             Pecas[posicao.Linha, posicao.Coluna] = peca;
             peca.Posicao = posicao;
+        }
+
+        public bool PosicaoValida(Posicao posicao)
+        {
+            //Testando se uma posição é válida dentro do array bidimensional
+            if(posicao.Linha < 0 || posicao.Linha <= Linhas || posicao.Coluna < 0 || posicao.Coluna <= Colunas  )
+            {
+                return false;
+            }
+            return true;
+        }
+
+        //Método para lançar uma exceção
+        public void ValidarPosicao(Posicao posicao)
+        {
+            if(!PosicaoValida(posicao))
+            {
+                throw new TabuleiroException("Posição Inválida!");
+            }
         }
     }
 }
