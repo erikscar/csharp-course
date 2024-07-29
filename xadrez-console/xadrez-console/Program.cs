@@ -6,7 +6,10 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
-            Tab tab = new Tab(1, 3);
+            Tab tab = new Tab(8, 8);
+
+            //Chamando o método static da tela
+            Tela.ImprimirTabuleiro(tab);
         }
     }
 }
