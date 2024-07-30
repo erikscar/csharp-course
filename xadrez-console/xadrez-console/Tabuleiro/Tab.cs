@@ -38,6 +38,11 @@ namespace xadrez_console.Tabuleiro
 
         public void InserirPeca(Peca peca, Posicao posicao)
         {
+            if(ExistePeca(posicao))
+            {
+                throw new TabuleiroException("Já Existe uma Peça Nessa Posição!");
+            }
+
             //Inserindo uma Peca, na matriz de Pecas
             Pecas[posicao.Linha, posicao.Coluna] = peca;
             peca.Posicao = posicao;
@@ -46,7 +51,7 @@ namespace xadrez_console.Tabuleiro
         public bool PosicaoValida(Posicao posicao)
         {
             //Testando se uma posição é válida dentro do array bidimensional
-            if(posicao.Linha < 0 || posicao.Linha <= Linhas || posicao.Coluna < 0 || posicao.Coluna <= Colunas  )
+            if(posicao.Linha < 0 || posicao.Linha >= Linhas || posicao.Coluna < 0 || posicao.Coluna >= Colunas  )
             {
                 return false;
             }
