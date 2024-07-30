@@ -18,6 +18,8 @@ namespace xadrez_console
                 tabuleiro.InserirPeca(new Torre(tabuleiro, Cor.Preta), new Posicao(1, 3));
                 tabuleiro.InserirPeca(new Rei(tabuleiro, Cor.Preta), new Posicao(2, 5));
 
+                tabuleiro.InserirPeca(new Torre(tabuleiro, Cor.Branca), new Posicao(3, 5));
+
                 //Chamando o método static da tela
                 Tela.ImprimirTabuleiro(tabuleiro);
             }
