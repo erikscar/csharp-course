@@ -22,7 +22,7 @@ namespace xadrez_console.Tabuleiro
             //Método que retorna uma matriz booleana para indicar onde são movimentos possiveis 
             //Método abstrato porque a Classe é muito genérica!
             //Vai ser implementado nas subclasses
-
+            
         {
 
         }
