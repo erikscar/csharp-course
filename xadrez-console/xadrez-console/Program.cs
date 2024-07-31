@@ -1,5 +1,4 @@
 ﻿using xadrez_console.Tabuleiro;
-using xadrez_console.Tabuleiro.Enum;
 using xadrez_console.Tabuleiro.Exceptions;
 using xadrez_console.Xadrez;
 
@@ -12,8 +11,24 @@ namespace xadrez_console
             try
             {
                 PartidaXadrez partidaXadrez = new PartidaXadrez();
-                //Chamando o método static da tela
-                Tela.ImprimirTabuleiro(partidaXadrez.Tabuleiro);
+
+                while (!partidaXadrez.Terminada)
+                {
+                    Console.Clear();
+                    //Chamando o método static da tela
+                    Tela.ImprimirTabuleiro(partidaXadrez.Tabuleiro);
+
+                    Console.WriteLine();
+                    Console.Write("Origem: ");
+                    Posicao origem = Tela.LerPosicaoXadrez().toPosicao();
+              
+                    Console.Write("Destino: ");
+                    Posicao destino = Tela.LerPosicaoXadrez().toPosicao();    
+
+                    partidaXadrez.ExecutaMovimento(origem, destino);
+
+                }
+                
             }
             catch (TabuleiroException e)
             {

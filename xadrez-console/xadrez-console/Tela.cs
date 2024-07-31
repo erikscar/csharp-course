@@ -1,5 +1,6 @@
 ﻿using xadrez_console.Tabuleiro;
 using xadrez_console.Tabuleiro.Enum;
+using xadrez_console.Xadrez;
 
 namespace xadrez_console
 {
@@ -32,6 +33,13 @@ namespace xadrez_console
             Console.WriteLine("   A B C D E F G H");
         }
 
+        public static PosicaoXadrez LerPosicaoXadrez() //Método para ler uma determinada posição via teclado
+        {
+            string s = Console.ReadLine(); //LEndo a String do teclado
+            char coluna = s[0]; //PEgando o char da string, se for c2, estaremos pegando o 'c'
+            int linha = int.Parse(s[1] + ""); //Pegando o número da string, forçando a ser uma string o s[1]
+            return new PosicaoXadrez(coluna, linha);
+        }
         public static void ImprimirPeca(Peca peca)
         {
             if(peca.Cor == Cor.Branca)
