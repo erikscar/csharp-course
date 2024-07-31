@@ -18,11 +18,8 @@ namespace xadrez_console
                     {
                         Console.Clear();
                         //Chamando o método static da tela
-                        Tela.ImprimirTabuleiro(partidaXadrez.Tabuleiro);
+                        Tela.ImprimirPartida(partidaXadrez);
 
-                        Console.WriteLine();
-                        Console.WriteLine("Turno: " + partidaXadrez.Turno);
-                        Console.WriteLine("Aguardando Jogada da Peça: " + partidaXadrez.JogadorAtual);
                         Console.WriteLine();
                         Console.Write("Origem: ");
                         Posicao origem = Tela.LerPosicaoXadrez().toPosicao();

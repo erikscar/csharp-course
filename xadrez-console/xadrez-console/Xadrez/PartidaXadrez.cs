@@ -10,6 +10,8 @@ namespace xadrez_console.Xadrez
         public int Turno { get; private set; }
         public Cor JogadorAtual { get; private set; }
         public bool Terminada { get; private set; }
+        private HashSet<Peca> Pecas; //Conjunto para guardar todas as peças da partida
+        private HashSet<Peca> Capturadas; //Conjunto para guardar todas as peças da partida CAPTURADAS
 
         public PartidaXadrez()
         {
@@ -17,7 +19,9 @@ namespace xadrez_console.Xadrez
             Turno = 1;
             Terminada = false;
             JogadorAtual = Cor.Branca;
-            ColocarPecas(); 
+            Pecas = new HashSet<Peca>();
+            Capturadas = new HashSet<Peca>();
+            InserirPecas(); 
         }
 
         public void ExecutaMovimento(Posicao origem, Posicao destino) //Método para mover uma peça, retirar ela onde ela esta e destinar ela para outro lugar
@@ -29,6 +33,10 @@ namespace xadrez_console.Xadrez
 
             Tabuleiro.InserirPeca(peca, destino); //Colocando a peça no destino
 
+            if(pecaCapturada != null) //Se houver alguma peça capturada guardar no CONJUNTO
+            {
+                Capturadas.Add(pecaCapturada);
+            }
         }
 
         public void RealizarJogada(Posicao origem, Posicao destino)
@@ -77,21 +85,57 @@ namespace xadrez_console.Xadrez
             }
         }
 
-        private void ColocarPecas()
+        public HashSet<Peca> PecasCapturadas(Cor cor) //Descobrir quais peças são brancas e quais são pretas
         {
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Branca), new PosicaoXadrez('c', 1).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Branca), new PosicaoXadrez('c', 2).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Branca), new PosicaoXadrez('d', 2).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Branca), new PosicaoXadrez('e', 2).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Branca), new PosicaoXadrez('e', 1).toPosicao());
-            Tabuleiro.InserirPeca(new Rei(Tabuleiro, Cor.Branca), new PosicaoXadrez('d', 1).toPosicao());
+            HashSet<Peca> aux = new HashSet<Peca>();
 
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Preta), new PosicaoXadrez('c', 7).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Preta), new PosicaoXadrez('c', 8).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Preta), new PosicaoXadrez('d', 7).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Preta), new PosicaoXadrez('e', 7).toPosicao());
-            Tabuleiro.InserirPeca(new Torre(Tabuleiro, Cor.Preta), new PosicaoXadrez('e', 8).toPosicao());
-            Tabuleiro.InserirPeca(new Rei(Tabuleiro, Cor.Preta), new PosicaoXadrez('d', 8).toPosicao());
+            foreach(Peca p in Capturadas )
+                {
+                if(p.Cor == cor)
+                    {
+                    aux.Add(p);
+                }
+            }
+            return aux;
+        }
+
+        public HashSet<Peca> PecasEmJogo(Cor cor)
+        {
+            HashSet<Peca> aux = new HashSet<Peca>();
+
+            foreach (Peca p in Capturadas)
+            {
+                if (p.Cor == cor)
+                {
+                    aux.Add(p);
+                }
+            }
+            //Retirando todas as peças com exceção das capturadas, para descobrir as peças em jogo de uma cor
+            aux.ExceptWith(PecasCapturadas(cor));
+            return aux;
+
+        }
+        public void InserirNovaPeca(char coluna, int linha, Peca peca)
+        {
+            Tabuleiro.InserirPeca(peca, new PosicaoXadrez(coluna, linha).toPosicao());
+            Pecas.Add(peca); //Inserindo as peças no CONJUNTO e também irá instanciar todas as peças
+
+        }
+        private void InserirPecas()
+        {
+            InserirNovaPeca('c', 1, new Torre(Tabuleiro, Cor.Branca));
+            InserirNovaPeca('c', 2, new Torre(Tabuleiro, Cor.Branca));
+            InserirNovaPeca('d', 2, new Torre(Tabuleiro, Cor.Branca));
+            InserirNovaPeca('e', 2, new Torre(Tabuleiro, Cor.Branca));
+            InserirNovaPeca('e', 1, new Torre(Tabuleiro, Cor.Branca));
+            InserirNovaPeca('d', 1, new Rei(Tabuleiro, Cor.Branca));
+
+            InserirNovaPeca('c', 7, new Torre(Tabuleiro, Cor.Preta));
+            InserirNovaPeca('c', 8, new Torre(Tabuleiro, Cor.Preta));
+            InserirNovaPeca('d', 7, new Torre(Tabuleiro, Cor.Preta));
+            InserirNovaPeca('e', 7, new Torre(Tabuleiro, Cor.Preta));
+            InserirNovaPeca('e', 8, new Torre(Tabuleiro, Cor.Preta));
+            InserirNovaPeca('d', 8, new Rei(Tabuleiro, Cor.Preta));
         }
     }
 }

@@ -6,6 +6,41 @@ namespace xadrez_console
 {
     internal class Tela
     {
+        public static void ImprimirPartida(PartidaXadrez partidaXadrez)
+        {
+            ImprimirTabuleiro(partidaXadrez.Tabuleiro);
+            Console.WriteLine();
+            ImprimirPecasCapturadas(partidaXadrez);
+            Console.WriteLine();
+            Console.WriteLine("Turno: " + partidaXadrez.Turno);
+            Console.WriteLine("Aguardando Jogada da Peça: " + partidaXadrez.JogadorAtual);
+        }
+
+        public static void ImprimirPecasCapturadas(PartidaXadrez partidaXadrez)
+        {
+            Console.WriteLine("Peças Capturadas: ");
+
+            Console.Write("Brancas: ");
+            ImprimirConjunto(partidaXadrez.PecasCapturadas(Cor.Branca));
+            Console.WriteLine();
+
+            Console.Write("Pretas: ");
+            ConsoleColor aux = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            ImprimirConjunto(partidaXadrez.PecasCapturadas(Cor.Preta));
+            Console.ForegroundColor = aux;
+            Console.WriteLine();
+        }
+
+        public static void ImprimirConjunto(HashSet<Peca> conjunto)
+        {
+            Console.Write("[");
+            foreach(Peca p in conjunto)
+            {
+                Console.Write(p + "");
+            }
+            Console.Write("]");
+        }
         //Método Estático para poder chamar ele a qualquer momento
         //Ele Itera por todo o tabuleiro criado(Instanciado em PartidaXadrez)
         //Se não tiver Peça ele imprimi -
@@ -46,7 +81,7 @@ namespace xadrez_console
                     ImprimirPeca(tabuleiro.Peca(i, j));
                     Console.BackgroundColor = fundoPadrao;
                 }
-                Console.WriteLine();    
+                Console.WriteLine();
             }
             Console.WriteLine("   A B C D E F G H");
             Console.BackgroundColor = fundoPadrao;
