@@ -18,14 +18,12 @@ namespace xadrez_console.Tabuleiro
             Movimentos = 0;
         }
 
-        public abstract bool[,] MovimentosPossiveis()
+        public abstract bool[,] MovimentosPossiveis();
             //Método que retorna uma matriz booleana para indicar onde são movimentos possiveis 
             //Método abstrato porque a Classe é muito genérica!
             //Vai ser implementado nas subclasses
             
-        {
-
-        }
+        
         public void IncrementarMovimentos()
         {
             Movimentos++;

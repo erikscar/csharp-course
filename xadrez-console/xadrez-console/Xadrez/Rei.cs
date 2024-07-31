@@ -25,7 +25,7 @@ namespace xadrez_console.Xadrez
             Posicao posicao = new Posicao(0, 0);
 
             //Verificando se é possível mover acima
-            posicao.DefinirValores(posicao.Linha - 1, posicao.Coluna);
+            posicao.DefinirValores(Posicao.Linha - 1, Posicao.Coluna);
 
             if(Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -33,7 +33,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover ao Nordeste
-            posicao.DefinirValores(posicao.Linha - 1, posicao.Coluna + 1);
+            posicao.DefinirValores(Posicao.Linha - 1, Posicao.Coluna + 1);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -41,7 +41,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover a Direita
-            posicao.DefinirValores(posicao.Linha, posicao.Coluna + 1);
+            posicao.DefinirValores(Posicao.Linha, Posicao.Coluna + 1);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -49,7 +49,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover a Sudeste
-            posicao.DefinirValores(posicao.Linha + 1, posicao.Coluna + 1);
+            posicao.DefinirValores(Posicao.Linha + 1, Posicao.Coluna + 1);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -57,7 +57,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover abaixo
-            posicao.DefinirValores(posicao.Linha + 1, posicao.Coluna);
+            posicao.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -65,7 +65,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover Sudoeste
-            posicao.DefinirValores(posicao.Linha + 1, posicao.Coluna - 1);
+            posicao.DefinirValores(Posicao.Linha + 1, Posicao.Coluna - 1);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -73,7 +73,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover Esquerda
-            posicao.DefinirValores(posicao.Linha, posicao.Coluna - 1);
+            posicao.DefinirValores(Posicao.Linha, Posicao.Coluna - 1);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
@@ -81,7 +81,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Verificando se é possível mover Noroeste
-            posicao.DefinirValores(posicao.Linha - 1, posicao.Coluna - 1);
+            posicao.DefinirValores(Posicao.Linha - 1, Posicao.Coluna - 1);
 
             if (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {

@@ -23,7 +23,7 @@ namespace xadrez_console.Xadrez
             Posicao posicao = new Posicao(0, 0);
 
             //Acima
-            posicao.DefinirValores(posicao.Linha - 1, posicao.Coluna);
+            posicao.DefinirValores(Posicao.Linha - 1, Posicao.Coluna);
             while(Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao)) //Enquanto tiver uma posicao valida ou livre ou adversária
             {
                 mat[posicao.Linha, posicao.Coluna] = true; //Pode mover
@@ -36,7 +36,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Abaixo
-            posicao.DefinirValores(posicao.Linha + 1, posicao.Coluna);
+            posicao.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
             while (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao)) //Enquanto tiver uma posicao valida ou livre ou adversária
             {
                 mat[posicao.Linha, posicao.Coluna] = true; //Pode mover
@@ -49,7 +49,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Direita
-            posicao.DefinirValores(posicao.Linha, posicao.Coluna + 1);
+            posicao.DefinirValores(Posicao.Linha, Posicao.Coluna + 1);
             while (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao)) //Enquanto tiver uma posicao valida ou livre ou adversária
             {
                 mat[posicao.Linha, posicao.Coluna] = true; //Pode mover
@@ -62,7 +62,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Esquerda
-            posicao.DefinirValores(posicao.Linha, posicao.Coluna - 1);
+            posicao.DefinirValores(Posicao.Linha, Posicao.Coluna - 1);
             while (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao)) //Enquanto tiver uma posicao valida ou livre ou adversária
             {
                 mat[posicao.Linha, posicao.Coluna] = true; //Pode mover
