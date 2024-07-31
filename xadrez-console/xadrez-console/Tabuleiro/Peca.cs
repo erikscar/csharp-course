@@ -41,6 +41,11 @@ namespace xadrez_console.Tabuleiro
             }
             return false;
         }
+        public bool PossivelDescolamentoDestino(Posicao posicao)
+        {
+            return MovimentosPossiveis()[posicao.Linha, posicao.Coluna];
+        }
+
         public void IncrementarMovimentos()
         {
             Movimentos++;

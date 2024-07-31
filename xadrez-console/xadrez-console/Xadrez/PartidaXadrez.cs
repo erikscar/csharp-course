@@ -56,6 +56,15 @@ namespace xadrez_console.Xadrez
             }
         }
 
+        public void ValidarPosicaoDeDestino(Posicao origem, Posicao destino)
+        {
+            //Se a peça de origem nao pode mover para o destino lançar uma exceção
+            if(!Tabuleiro.Peca(origem).PossivelDescolamentoDestino(destino))
+            {
+                throw new TabuleiroException("Posição de Destino Inválida");
+            }
+        }
+
         private void AlterarJogador()
         {
             if(JogadorAtual == Cor.Branca)
