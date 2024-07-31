@@ -12,19 +12,20 @@ namespace xadrez_console.Xadrez
         public bool Terminada { get; private set; }
         private HashSet<Peca> Pecas; //Conjunto para guardar todas as peças da partida
         private HashSet<Peca> Capturadas; //Conjunto para guardar todas as peças da partida CAPTURADAS
-
+        public bool Xeque { get; private set; }
         public PartidaXadrez()
         {
             Tabuleiro = new Tab(8, 8);
             Turno = 1;
             Terminada = false;
+            Xeque = false;
             JogadorAtual = Cor.Branca;
             Pecas = new HashSet<Peca>();
             Capturadas = new HashSet<Peca>();
             InserirPecas(); 
         }
 
-        public void ExecutaMovimento(Posicao origem, Posicao destino) //Método para mover uma peça, retirar ela onde ela esta e destinar ela para outro lugar
+        public Peca ExecutaMovimento(Posicao origem, Posicao destino) //Método para mover uma peça, retirar ela onde ela esta e destinar ela para outro lugar
         {
             Peca peca = Tabuleiro.RetirarPeca(origem); //Retirando a peça da origem, com o método criado
             peca.IncrementarMovimentos();
@@ -37,11 +38,39 @@ namespace xadrez_console.Xadrez
             {
                 Capturadas.Add(pecaCapturada);
             }
+            return pecaCapturada;
+        }
+
+        public void DesfazerMovimento(Posicao origem, Posicao destino, Peca pecaCapturada)
+        {
+            Peca peca = Tabuleiro.RetirarPeca(destino);
+            peca.DecrementarMovimentos();
+            if(pecaCapturada != null)
+            {
+                Tabuleiro.InserirPeca(pecaCapturada, destino);
+                Capturadas.Remove(pecaCapturada);
+            }
+            Tabuleiro.InserirPeca(peca, origem);
         }
 
         public void RealizarJogada(Posicao origem, Posicao destino)
         {
-            ExecutaMovimento(origem, destino);
+            Peca pecaCapturada = ExecutaMovimento(origem, destino);
+
+            if(EstaEmXeque(JogadorAtual))
+            {
+                DesfazerMovimento(origem, destino, pecaCapturada);
+                throw new TabuleiroException("Você Não pode se Colocar em Xeque");
+            }
+
+            if(EstaEmXeque(Adversaria(JogadorAtual)))
+            {
+                Xeque = true;
+            }
+            else
+            {
+                Xeque = false;
+            }
             Turno++;
             AlterarJogador();
         }
@@ -103,7 +132,7 @@ namespace xadrez_console.Xadrez
         {
             HashSet<Peca> aux = new HashSet<Peca>();
 
-            foreach (Peca p in Capturadas)
+            foreach (Peca p in Pecas)
             {
                 if (p.Cor == cor)
                 {
@@ -114,6 +143,50 @@ namespace xadrez_console.Xadrez
             aux.ExceptWith(PecasCapturadas(cor));
             return aux;
 
+        }
+
+        private Cor Adversaria(Cor cor)
+        {
+            if(cor == Cor.Branca)
+            {
+                return Cor.Preta;
+            }
+            else
+            {
+                return Cor.Branca;
+            }
+        }
+
+        private Peca Rei(Cor cor) //Descobrir quem é o rei de uma cor especifica
+        {
+            foreach(Peca p in PecasEmJogo(cor))
+            {
+                if (p is Rei)
+                {
+                    return p;
+                }
+            }
+            return null;
+        }
+
+        public bool EstaEmXeque(Cor cor)
+        {
+            Peca rei = Rei(cor);
+
+            if(rei == null)
+            {
+                throw new TabuleiroException("Não Há Rei da Cor " + cor + " no Tabuleiro");
+            }
+
+            foreach(Peca p in PecasEmJogo(Adversaria(cor)))
+            {
+                bool[,] mat = p.MovimentosPossiveis();
+                if (mat[rei.Posicao.Linha, rei.Posicao.Coluna])
+                {
+                    return true;
+                }
+            }
+            return false;
         }
         public void InserirNovaPeca(char coluna, int linha, Peca peca)
         {

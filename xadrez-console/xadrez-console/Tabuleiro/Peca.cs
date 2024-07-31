@@ -50,5 +50,10 @@ namespace xadrez_console.Tabuleiro
         {
             Movimentos++;
         }
+
+        public void DecrementarMovimentos()
+        {
+            Movimentos--;
+        }
     }
 }
