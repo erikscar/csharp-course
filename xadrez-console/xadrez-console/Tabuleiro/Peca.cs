@@ -2,7 +2,7 @@
 
 namespace xadrez_console.Tabuleiro
 {
-    internal class Peca
+    abstract class Peca //Como a classe possui um método abstrato ela vira abstrata também
     {   
         //Classe Genérica!
         public Posicao Posicao { get; set; }
@@ -18,6 +18,14 @@ namespace xadrez_console.Tabuleiro
             Movimentos = 0;
         }
 
+        public abstract bool[,] MovimentosPossiveis()
+            //Método que retorna uma matriz booleana para indicar onde são movimentos possiveis 
+            //Método abstrato porque a Classe é muito genérica!
+            //Vai ser implementado nas subclasses
+
+        {
+
+        }
         public void IncrementarMovimentos()
         {
             Movimentos++;
