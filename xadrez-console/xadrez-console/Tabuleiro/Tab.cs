@@ -36,6 +36,20 @@ namespace xadrez_console.Tabuleiro
             return Peca(posicao) != null;
         }
 
+        public Peca RetirarPeca(Posicao posicao) //Método para Retirar uma peça dada a posição
+        {
+            if(Peca(posicao) == null) //Se não houver uma peça naquela posição então nada deve ser feito
+            {
+                return null;
+            }
+
+            Peca aux = Peca(posicao);
+            aux.Posicao = null; //Peça retirada igualando a null,  alterando a propriedade dela
+
+            Pecas[posicao.Linha, posicao.Coluna] = null; //Marcando a posição do tabuleiro como null
+
+            return aux;
+        }
         public void InserirPeca(Peca peca, Posicao posicao)
         {
             if(ExistePeca(posicao))

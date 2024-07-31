@@ -6,7 +6,7 @@ namespace xadrez_console
     internal class Tela
     {
         //Método Estático para poder chamar ele a qualquer momento
-        //Ele Itera por todo o tabuleiro criado(Instanciado em Program.CS)
+        //Ele Itera por todo o tabuleiro criado(Instanciado em PartidaXadrez)
         //Se não tiver Peça ele imprimi -
         public static void ImprimirTabuleiro(Tab tabuleiro)
         {

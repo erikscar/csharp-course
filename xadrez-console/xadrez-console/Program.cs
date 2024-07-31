@@ -11,17 +11,9 @@ namespace xadrez_console
         {
             try
             {
-                Tab tabuleiro = new Tab(8, 8);
-
-
-                tabuleiro.InserirPeca(new Torre(tabuleiro, Cor.Preta), new Posicao(0, 0));
-                tabuleiro.InserirPeca(new Torre(tabuleiro, Cor.Preta), new Posicao(1, 3));
-                tabuleiro.InserirPeca(new Rei(tabuleiro, Cor.Preta), new Posicao(2, 5));
-
-                tabuleiro.InserirPeca(new Torre(tabuleiro, Cor.Branca), new Posicao(3, 5));
-
+                PartidaXadrez partidaXadrez = new PartidaXadrez();
                 //Chamando o método static da tela
-                Tela.ImprimirTabuleiro(tabuleiro);
+                Tela.ImprimirTabuleiro(partidaXadrez.Tabuleiro);
             }
             catch (TabuleiroException e)
             {
