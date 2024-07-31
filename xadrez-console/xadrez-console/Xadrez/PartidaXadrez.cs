@@ -1,5 +1,6 @@
 ﻿using xadrez_console.Tabuleiro;
 using xadrez_console.Tabuleiro.Enum;
+using xadrez_console.Tabuleiro.Exceptions;
 
 namespace xadrez_console.Xadrez
 {
@@ -35,6 +36,24 @@ namespace xadrez_console.Xadrez
             ExecutaMovimento(origem, destino);
             Turno++;
             AlterarJogador();
+        }
+
+        public void ValidarPosicaoDeOrigem(Posicao posicao)
+        {
+            if (Tabuleiro.Peca(posicao) == null)
+            {
+                throw new TabuleiroException("Não Existe Peça na Posição Inserida");
+            }
+
+            if(JogadorAtual != Tabuleiro.Peca(posicao).Cor)
+            {
+                throw new TabuleiroException("A Peça de Origem Escolhida Não é Sua");
+            }
+
+            if(!Tabuleiro.Peca(posicao).PecaLivre())
+            {
+                throw new TabuleiroException("Não Há Movimentos Possíveis para essa Peça");
+            }
         }
 
         private void AlterarJogador()

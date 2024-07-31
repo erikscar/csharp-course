@@ -23,7 +23,24 @@ namespace xadrez_console.Tabuleiro
             //Método abstrato porque a Classe é muito genérica!
             //Vai ser implementado nas subclasses
             
-        
+        public bool PecaLivre()
+        {
+            bool[,] mat = MovimentosPossiveis(); //Percorrer a matriz inteira 
+            // e se tiver um TRUE marcado na matriz de movimento possível retornar true
+
+            for(int i = 0; i < Tabuleiro.Linhas; i++)
+            {
+                for(int j = 0; j < Tabuleiro.Colunas; j++)
+                {
+                    if (mat[i, j] == true)
+                    {
+                        return true;
+                    }
+                    
+                }
+            }
+            return false;
+        }
         public void IncrementarMovimentos()
         {
             Movimentos++;
