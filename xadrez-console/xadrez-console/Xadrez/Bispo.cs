@@ -5,6 +5,7 @@ namespace xadrez_console.Xadrez
 {
     internal class Bispo : Peca
     {
+
         public Bispo(Tab tabuleiro, Cor cor) : base(tabuleiro, cor)
         { 
         }
@@ -13,6 +14,7 @@ namespace xadrez_console.Xadrez
         {
             return "B";
         }
+
 
         private bool PodeMover(Posicao posicao)
         {

@@ -1,4 +1,4 @@
-﻿using xadrez_console.Tabuleiro.Enum;
+using xadrez_console.Tabuleiro.Enum;
 using xadrez_console.Tabuleiro;
 
 namespace xadrez_console.Xadrez
