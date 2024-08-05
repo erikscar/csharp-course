@@ -13,12 +13,15 @@ namespace xadrez_console.Xadrez
         private HashSet<Peca> Pecas; //Conjunto para guardar todas as peças da partida
         private HashSet<Peca> Capturadas; //Conjunto para guardar todas as peças da partida CAPTURADAS
         public bool Xeque { get; private set; }
+
+        public Peca EnPassant { get; private set; }
         public PartidaXadrez()
         {
             Tabuleiro = new Tab(8, 8);
             Turno = 1;
             Terminada = false;
             Xeque = false;
+            EnPassant = null;
             JogadorAtual = Cor.Branca;
             Pecas = new HashSet<Peca>();
             Capturadas = new HashSet<Peca>();
@@ -63,6 +66,26 @@ namespace xadrez_console.Xadrez
 
             }
 
+            //Jogada Especial En Passant
+
+            if(peca is Peao)
+            {
+                if(origem.Coluna != destino.Coluna && pecaCapturada == null)
+                {
+                    Posicao posicaoPeao;
+                    if(peca.Cor == Cor.Branca )
+                    {
+                        posicaoPeao = new Posicao(destino.Linha + 1, destino.Coluna);
+                    }
+                    else
+                    {
+                        posicaoPeao = new Posicao(destino.Linha - 1, destino.Coluna);
+                    }
+                    pecaCapturada = Tabuleiro.RetirarPeca(posicaoPeao);
+                    Capturadas.Add(pecaCapturada);
+                }
+            }
+
             return pecaCapturada;
         }
 
@@ -100,6 +123,25 @@ namespace xadrez_console.Xadrez
                 Tabuleiro.InserirPeca(torre, origemTorre);
 
             }
+
+            //Jogada Especial En Passant
+            if(peca is Peao)
+            {
+                if(origem.Coluna != destino.Coluna && pecaCapturada == EnPassant)
+                {
+                    Peca peao = Tabuleiro.RetirarPeca(destino);
+                    Posicao posicaoPeao;
+                    if(peca.Cor == Cor.Branca)
+                    {
+                        posicaoPeao = new Posicao(3, destino.Coluna);
+                    }
+                    else
+                    {
+                        posicaoPeao = new Posicao(4, destino.Coluna);
+                    }
+                    Tabuleiro.InserirPeca(peao, posicaoPeao);
+                }
+            }
         }
 
         public void RealizarJogada(Posicao origem, Posicao destino)
@@ -130,6 +172,19 @@ namespace xadrez_console.Xadrez
                 Turno++;
                 AlterarJogador();
             }
+
+            Peca peca = Tabuleiro.Peca(destino);
+
+            //Jogada Especial En Passant
+            if(peca is Peao && (destino.Linha == origem.Linha - 2 || destino.Linha == origem.Linha + 2))
+            {
+                EnPassant = peca;
+            }
+            else
+            {
+                EnPassant = null;
+            }
+
            
         }
 
@@ -293,14 +348,14 @@ namespace xadrez_console.Xadrez
             InserirNovaPeca('f', 1, new Bispo(Tabuleiro, Cor.Branca));
             InserirNovaPeca('g', 1, new Cavalo(Tabuleiro, Cor.Branca));
             InserirNovaPeca('h', 1, new Torre(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('a', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('b', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('c', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('d', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('e', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('f', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('g', 2, new Peao(Tabuleiro, Cor.Branca));
-            InserirNovaPeca('h', 2, new Peao(Tabuleiro, Cor.Branca));
+            InserirNovaPeca('a', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('b', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('c', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('d', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('e', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('f', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('g', 2, new Peao(Tabuleiro, Cor.Branca, this));
+            InserirNovaPeca('h', 2, new Peao(Tabuleiro, Cor.Branca, this));
 
             InserirNovaPeca('a', 8, new Torre(Tabuleiro, Cor.Preta));
             InserirNovaPeca('b', 8, new Cavalo(Tabuleiro, Cor.Preta));
@@ -310,14 +365,14 @@ namespace xadrez_console.Xadrez
             InserirNovaPeca('f', 8, new Bispo(Tabuleiro, Cor.Preta));
             InserirNovaPeca('g', 8, new Cavalo(Tabuleiro, Cor.Preta));
             InserirNovaPeca('h', 8, new Torre(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('a', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('b', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('c', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('d', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('e', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('f', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('g', 7, new Peao(Tabuleiro, Cor.Preta));
-            InserirNovaPeca('h', 7, new Peao(Tabuleiro, Cor.Preta));
+            InserirNovaPeca('a', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('b', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('c', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('d', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('e', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('f', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('g', 7, new Peao(Tabuleiro, Cor.Preta, this));
+            InserirNovaPeca('h', 7, new Peao(Tabuleiro, Cor.Preta, this ));
 
         }
     }
