@@ -27,7 +27,7 @@ namespace xadrez_console.Xadrez
             Posicao posicao = new Posicao(0, 0);
 
             //Esquerda
-            posicao.DefinirValores(Posicao.Linha, posicao.Coluna - 1);
+            posicao.DefinirValores(Posicao.Linha, Posicao.Coluna - 1);
             while(Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
                 {
                 mat[posicao.Linha, posicao.Coluna] = true;  
@@ -39,7 +39,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Direita
-            posicao.DefinirValores(Posicao.Linha, posicao.Coluna + 1);
+            posicao.DefinirValores(Posicao.Linha, Posicao.Coluna + 1);
             while (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
                 mat[posicao.Linha, posicao.Coluna] = true;
@@ -51,7 +51,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Acima
-            posicao.DefinirValores(Posicao.Linha - 1, posicao.Coluna);
+            posicao.DefinirValores(Posicao.Linha - 1, Posicao.Coluna);
             while (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
                 mat[posicao.Linha, posicao.Coluna] = true;
@@ -63,7 +63,7 @@ namespace xadrez_console.Xadrez
             }
 
             //Abaixo
-            posicao.DefinirValores(Posicao.Linha + 1, posicao.Coluna);
+            posicao.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
             while (Tabuleiro.PosicaoValida(posicao) && PodeMover(posicao))
             {
                 mat[posicao.Linha, posicao.Coluna] = true;
