@@ -1,0 +1,15 @@
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.exe
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.deps.json
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.runtimeconfig.json
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.dll
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.pdb
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.AssemblyInfo.cs
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.sourcelink.json
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.dll
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\refint\DirectoryDirectoryInfo.dll
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.pdb
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.genruntimeconfig.cache
+D:\csharp-course\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\ref\DirectoryDirectoryInfo.dll
