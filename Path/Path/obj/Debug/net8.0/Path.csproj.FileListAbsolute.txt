@@ -1,0 +1,15 @@
+D:\csharp-course\Path\Path\bin\Debug\net8.0\Path.exe
+D:\csharp-course\Path\Path\bin\Debug\net8.0\Path.deps.json
+D:\csharp-course\Path\Path\bin\Debug\net8.0\Path.runtimeconfig.json
+D:\csharp-course\Path\Path\bin\Debug\net8.0\Path.dll
+D:\csharp-course\Path\Path\bin\Debug\net8.0\Path.pdb
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.AssemblyInfoInputs.cache
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.AssemblyInfo.cs
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.csproj.CoreCompileInputs.cache
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.sourcelink.json
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.dll
+D:\csharp-course\Path\Path\obj\Debug\net8.0\refint\Path.dll
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.pdb
+D:\csharp-course\Path\Path\obj\Debug\net8.0\Path.genruntimeconfig.cache
+D:\csharp-course\Path\Path\obj\Debug\net8.0\ref\Path.dll

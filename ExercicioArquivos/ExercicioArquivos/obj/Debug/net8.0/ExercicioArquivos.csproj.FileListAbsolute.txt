@@ -1,0 +1,15 @@
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.exe
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.deps.json
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.runtimeconfig.json
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.dll
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\bin\Debug\net8.0\ExercicioArquivos.pdb
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.AssemblyInfoInputs.cache
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.AssemblyInfo.cs
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.csproj.CoreCompileInputs.cache
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.sourcelink.json
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.dll
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\refint\ExercicioArquivos.dll
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.pdb
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ExercicioArquivos.genruntimeconfig.cache
+D:\csharp-course\ExercicioArquivos\ExercicioArquivos\obj\Debug\net8.0\ref\ExercicioArquivos.dll
