@@ -1,0 +1,15 @@
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net8.0\FileStreamStreamReader.exe
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net8.0\FileStreamStreamReader.deps.json
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net8.0\FileStreamStreamReader.runtimeconfig.json
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net8.0\FileStreamStreamReader.dll
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net8.0\FileStreamStreamReader.pdb
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.AssemblyInfoInputs.cache
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.AssemblyInfo.cs
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.csproj.CoreCompileInputs.cache
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.sourcelink.json
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.dll
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\refint\FileStreamStreamReader.dll
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.pdb
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\FileStreamStreamReader.genruntimeconfig.cache
+D:\csharp-course\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net8.0\ref\FileStreamStreamReader.dll

@@ -1,0 +1,15 @@
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net8.0\FileFileInfoIOException.exe
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net8.0\FileFileInfoIOException.deps.json
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net8.0\FileFileInfoIOException.runtimeconfig.json
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net8.0\FileFileInfoIOException.dll
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net8.0\FileFileInfoIOException.pdb
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.AssemblyInfoInputs.cache
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.AssemblyInfo.cs
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.csproj.CoreCompileInputs.cache
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.sourcelink.json
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.dll
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\refint\FileFileInfoIOException.dll
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.pdb
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\FileFileInfoIOException.genruntimeconfig.cache
+D:\csharp-course\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net8.0\ref\FileFileInfoIOException.dll

@@ -1,0 +1,15 @@
+D:\csharp-course\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.exe
+D:\csharp-course\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.deps.json
+D:\csharp-course\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.runtimeconfig.json
+D:\csharp-course\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.dll
+D:\csharp-course\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.pdb
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.AssemblyInfoInputs.cache
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.AssemblyInfo.cs
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.csproj.CoreCompileInputs.cache
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.sourcelink.json
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.dll
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\refint\BlocoUsing.dll
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.pdb
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.genruntimeconfig.cache
+D:\csharp-course\BlocoUsing\BlocoUsing\obj\Debug\net8.0\ref\BlocoUsing.dll
