@@ -1,0 +1,15 @@
+D:\csharp-course\StreamWritter\StreamWritter\bin\Debug\net8.0\StreamWritter.exe
+D:\csharp-course\StreamWritter\StreamWritter\bin\Debug\net8.0\StreamWritter.deps.json
+D:\csharp-course\StreamWritter\StreamWritter\bin\Debug\net8.0\StreamWritter.runtimeconfig.json
+D:\csharp-course\StreamWritter\StreamWritter\bin\Debug\net8.0\StreamWritter.dll
+D:\csharp-course\StreamWritter\StreamWritter\bin\Debug\net8.0\StreamWritter.pdb
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.AssemblyInfoInputs.cache
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.AssemblyInfo.cs
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.csproj.CoreCompileInputs.cache
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.sourcelink.json
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.dll
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\refint\StreamWritter.dll
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.pdb
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\StreamWritter.genruntimeconfig.cache
+D:\csharp-course\StreamWritter\StreamWritter\obj\Debug\net8.0\ref\StreamWritter.dll
