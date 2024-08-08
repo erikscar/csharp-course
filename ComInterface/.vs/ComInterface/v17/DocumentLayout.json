@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\ComInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|d:\\csharp-course\\cominterface\\seminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAB68FB-1B17-4238-99CB-8649F7579DB9}|SemInterface\\SemInterface.csproj|solutionrelative:seminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Services\\ITaxService.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "SemInterface\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:24:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "SemInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:56:50.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "SemInterface\\Entities\\CarRental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:49:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Program.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Program.cs",
+              "RelativeToolTip": "SemInterface\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB0AAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:33:43.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Services\\RentalService.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "SemInterface\\Services\\RentalService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:58:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "SemInterface\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:45:38.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ComInterface\\SemInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SemInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\csharp-course\\ComInterface\\SemInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "SemInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:44:44.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
