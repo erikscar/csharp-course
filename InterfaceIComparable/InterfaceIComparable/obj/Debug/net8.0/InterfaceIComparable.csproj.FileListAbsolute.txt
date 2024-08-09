@@ -1,0 +1,15 @@
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.exe
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.deps.json
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.runtimeconfig.json
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.dll
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\bin\Debug\net8.0\InterfaceIComparable.pdb
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.AssemblyInfoInputs.cache
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.AssemblyInfo.cs
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.sourcelink.json
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.dll
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\refint\InterfaceIComparable.dll
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.pdb
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\InterfaceIComparable.genruntimeconfig.cache
+D:\csharp-course\InterfaceIComparable\InterfaceIComparable\obj\Debug\net8.0\ref\InterfaceIComparable.dll
