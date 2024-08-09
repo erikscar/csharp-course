@@ -1,0 +1,15 @@
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.AssemblyInfoInputs.cache
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.AssemblyInfo.cs
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.csproj.CoreCompileInputs.cache
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.sourcelink.json
+D:\csharp-course\HerancavsInterface\HerancavsInterface\bin\Debug\net8.0\HerancavsInterface.exe
+D:\csharp-course\HerancavsInterface\HerancavsInterface\bin\Debug\net8.0\HerancavsInterface.deps.json
+D:\csharp-course\HerancavsInterface\HerancavsInterface\bin\Debug\net8.0\HerancavsInterface.runtimeconfig.json
+D:\csharp-course\HerancavsInterface\HerancavsInterface\bin\Debug\net8.0\HerancavsInterface.dll
+D:\csharp-course\HerancavsInterface\HerancavsInterface\bin\Debug\net8.0\HerancavsInterface.pdb
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.dll
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\refint\HerancavsInterface.dll
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.pdb
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\HerancavsInterface.genruntimeconfig.cache
+D:\csharp-course\HerancavsInterface\HerancavsInterface\obj\Debug\net8.0\ref\HerancavsInterface.dll

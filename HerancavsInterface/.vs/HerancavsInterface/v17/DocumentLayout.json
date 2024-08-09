@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\HerancavsInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|d:\\csharp-course\\herancavsinterface\\herancavsinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|solutionrelative:herancavsinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|d:\\csharp-course\\herancavsinterface\\herancavsinterface\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|solutionrelative:herancavsinterface\\model\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|d:\\csharp-course\\herancavsinterface\\herancavsinterface\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|solutionrelative:herancavsinterface\\model\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|d:\\csharp-course\\herancavsinterface\\herancavsinterface\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|solutionrelative:herancavsinterface\\model\\entities\\abstractshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|d:\\csharp-course\\herancavsinterface\\herancavsinterface\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|solutionrelative:herancavsinterface\\model\\entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|d:\\csharp-course\\herancavsinterface\\herancavsinterface\\model\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE56886-FA9C-40BD-8A2C-F0CDCE57ECC1}|HerancavsInterface\\HerancavsInterface.csproj|solutionrelative:herancavsinterface\\model\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractShape.cs",
+              "DocumentMoniker": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\AbstractShape.cs",
+              "RelativeDocumentMoniker": "HerancavsInterface\\Model\\Entities\\AbstractShape.cs",
+              "ToolTip": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\AbstractShape.cs",
+              "RelativeToolTip": "HerancavsInterface\\Model\\Entities\\AbstractShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:39:33.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\IShape.cs",
+              "RelativeDocumentMoniker": "HerancavsInterface\\Model\\Entities\\IShape.cs",
+              "ToolTip": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\IShape.cs",
+              "RelativeToolTip": "HerancavsInterface\\Model\\Entities\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:38:55.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "HerancavsInterface\\Model\\Entities\\Rectangle.cs",
+              "ToolTip": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "HerancavsInterface\\Model\\Entities\\Rectangle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:30:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "HerancavsInterface\\Model\\Entities\\Circle.cs",
+              "ToolTip": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Entities\\Circle.cs",
+              "RelativeToolTip": "HerancavsInterface\\Model\\Entities\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:30:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Program.cs",
+              "RelativeDocumentMoniker": "HerancavsInterface\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Program.cs",
+              "RelativeToolTip": "HerancavsInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:15:07.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "HerancavsInterface\\Model\\Enums\\Color.cs",
+              "ToolTip": "D:\\csharp-course\\HerancavsInterface\\HerancavsInterface\\Model\\Enums\\Color.cs",
+              "RelativeToolTip": "HerancavsInterface\\Model\\Enums\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:25:14.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
