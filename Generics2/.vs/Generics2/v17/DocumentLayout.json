@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\Generics2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC0883-52EB-4B47-A6F8-C3DFA7C3502A}|Generics2\\Generics2.csproj|d:\\csharp-course\\generics2\\generics2\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DC0883-52EB-4B47-A6F8-C3DFA7C3502A}|Generics2\\Generics2.csproj|solutionrelative:generics2\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DC0883-52EB-4B47-A6F8-C3DFA7C3502A}|Generics2\\Generics2.csproj|d:\\csharp-course\\generics2\\generics2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DC0883-52EB-4B47-A6F8-C3DFA7C3502A}|Generics2\\Generics2.csproj|solutionrelative:generics2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Generics2\\Generics2\\PrintService.cs",
+              "RelativeDocumentMoniker": "Generics2\\PrintService.cs",
+              "ToolTip": "D:\\csharp-course\\Generics2\\Generics2\\PrintService.cs",
+              "RelativeToolTip": "Generics2\\PrintService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:27:10.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Generics2\\Generics2\\Program.cs",
+              "RelativeDocumentMoniker": "Generics2\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\Generics2\\Generics2\\Program.cs",
+              "RelativeToolTip": "Generics2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:26:40.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

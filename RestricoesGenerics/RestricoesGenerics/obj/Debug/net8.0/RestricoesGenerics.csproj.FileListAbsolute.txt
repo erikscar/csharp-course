@@ -1,0 +1,15 @@
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.exe
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.deps.json
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.runtimeconfig.json
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.dll
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\bin\Debug\net8.0\RestricoesGenerics.pdb
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.AssemblyInfoInputs.cache
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.AssemblyInfo.cs
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.csproj.CoreCompileInputs.cache
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.sourcelink.json
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.dll
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\refint\RestricoesGenerics.dll
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.pdb
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\RestricoesGenerics.genruntimeconfig.cache
+D:\csharp-course\RestricoesGenerics\RestricoesGenerics\obj\Debug\net8.0\ref\RestricoesGenerics.dll
