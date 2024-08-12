@@ -1,0 +1,15 @@
+D:\csharp-course\Generics1\Generics1\bin\Debug\net8.0\Generics1.exe
+D:\csharp-course\Generics1\Generics1\bin\Debug\net8.0\Generics1.deps.json
+D:\csharp-course\Generics1\Generics1\bin\Debug\net8.0\Generics1.runtimeconfig.json
+D:\csharp-course\Generics1\Generics1\bin\Debug\net8.0\Generics1.dll
+D:\csharp-course\Generics1\Generics1\bin\Debug\net8.0\Generics1.pdb
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.AssemblyInfoInputs.cache
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.AssemblyInfo.cs
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.csproj.CoreCompileInputs.cache
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.sourcelink.json
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.dll
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\refint\Generics1.dll
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.pdb
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\Generics1.genruntimeconfig.cache
+D:\csharp-course\Generics1\Generics1\obj\Debug\net8.0\ref\Generics1.dll
