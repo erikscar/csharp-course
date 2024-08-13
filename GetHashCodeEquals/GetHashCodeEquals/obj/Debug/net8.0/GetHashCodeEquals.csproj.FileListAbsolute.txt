@@ -1,0 +1,15 @@
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.exe
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.deps.json
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.runtimeconfig.json
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.dll
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals.pdb
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.AssemblyInfoInputs.cache
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.AssemblyInfo.cs
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.csproj.CoreCompileInputs.cache
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.sourcelink.json
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.dll
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\refint\GetHashCodeEquals.dll
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.pdb
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals.genruntimeconfig.cache
+D:\csharp-course\GetHashCodeEquals\GetHashCodeEquals\obj\Debug\net8.0\ref\GetHashCodeEquals.dll
