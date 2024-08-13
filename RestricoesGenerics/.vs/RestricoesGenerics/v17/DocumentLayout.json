@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\csharp-course\\RestricoesGenerics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|d:\\csharp-course\\restricoesgenerics\\restricoesgenerics\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|d:\\csharp-course\\restricoesgenerics\\restricoesgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|d:\\csharp-course\\restricoesgenerics\\restricoesgenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|d:\\csharp-course\\restricoesgenerics\\restricoesgenerics\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A70760-42A4-427F-9B86-89E1821AD56B}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,6 +25,33 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:20:59.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Entities\\Product.cs",
+              "ToolTip": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:04:44.799Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -34,20 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "RestricoesGenerics\\Entities\\Product.cs",
-              "ToolTip": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
-              "RelativeToolTip": "RestricoesGenerics\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T19:50:01.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CalculationService.cs",
               "DocumentMoniker": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\CalculationService.cs",
               "RelativeDocumentMoniker": "RestricoesGenerics\\CalculationService.cs",
@@ -56,19 +70,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T16:21:43.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
-              "RelativeDocumentMoniker": "RestricoesGenerics\\Program.cs",
-              "ToolTip": "D:\\csharp-course\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
-              "RelativeToolTip": "RestricoesGenerics\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:20:59.862Z",
               "EditorCaption": ""
             }
           ]
