@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharp-course\\GetHashCodeEquals\\",
+  "WorkspaceRootPath": "C:\\csharp-course\\GetHashCodeEquals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9711E332-B8F0-44C7-BC5B-0EE64AB3C223}|GetHashCodeEquals\\GetHashCodeEquals.csproj|d:\\csharp-course\\gethashcodeequals\\gethashcodeequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9711E332-B8F0-44C7-BC5B-0EE64AB3C223}|GetHashCodeEquals\\GetHashCodeEquals.csproj|c:\\csharp-course\\gethashcodeequals\\gethashcodeequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9711E332-B8F0-44C7-BC5B-0EE64AB3C223}|GetHashCodeEquals\\GetHashCodeEquals.csproj|solutionrelative:gethashcodeequals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharp-course\\GetHashCodeEquals\\GetHashCodeEquals\\Program.cs",
+              "DocumentMoniker": "C:\\csharp-course\\GetHashCodeEquals\\GetHashCodeEquals\\Program.cs",
               "RelativeDocumentMoniker": "GetHashCodeEquals\\Program.cs",
-              "ToolTip": "D:\\csharp-course\\GetHashCodeEquals\\GetHashCodeEquals\\Program.cs",
+              "ToolTip": "C:\\csharp-course\\GetHashCodeEquals\\GetHashCodeEquals\\Program.cs",
               "RelativeToolTip": "GetHashCodeEquals\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBUAAAB5AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T15:36:47.28Z",
               "EditorCaption": ""

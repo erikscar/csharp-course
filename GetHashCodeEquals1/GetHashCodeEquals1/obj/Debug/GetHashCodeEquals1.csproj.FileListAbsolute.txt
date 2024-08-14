@@ -1,0 +1,7 @@
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\bin\Debug\GetHashCodeEquals1.exe.config
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\bin\Debug\GetHashCodeEquals1.exe
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\bin\Debug\GetHashCodeEquals1.pdb
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\obj\Debug\GetHashCodeEquals1.csproj.AssemblyReference.cache
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\obj\Debug\GetHashCodeEquals1.csproj.CoreCompileInputs.cache
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\obj\Debug\GetHashCodeEquals1.exe
+C:\csharp-course\GetHashCodeEquals1\GetHashCodeEquals1\obj\Debug\GetHashCodeEquals1.pdb
