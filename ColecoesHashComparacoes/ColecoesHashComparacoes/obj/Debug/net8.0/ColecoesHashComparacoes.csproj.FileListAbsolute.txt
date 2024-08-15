@@ -1,0 +1,15 @@
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\bin\Debug\net8.0\ColecoesHashComparacoes.exe
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\bin\Debug\net8.0\ColecoesHashComparacoes.deps.json
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\bin\Debug\net8.0\ColecoesHashComparacoes.runtimeconfig.json
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\bin\Debug\net8.0\ColecoesHashComparacoes.dll
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\bin\Debug\net8.0\ColecoesHashComparacoes.pdb
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.AssemblyInfoInputs.cache
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.AssemblyInfo.cs
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.csproj.CoreCompileInputs.cache
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.sourcelink.json
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.dll
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\refint\ColecoesHashComparacoes.dll
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.pdb
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ColecoesHashComparacoes.genruntimeconfig.cache
+D:\csharp-course\ColecoesHashComparacoes\ColecoesHashComparacoes\obj\Debug\net8.0\ref\ColecoesHashComparacoes.dll
