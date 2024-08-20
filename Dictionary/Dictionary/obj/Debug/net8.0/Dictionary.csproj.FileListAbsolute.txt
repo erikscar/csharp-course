@@ -1,0 +1,15 @@
+D:\csharp-course\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\csharp-course\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\csharp-course\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\csharp-course\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\csharp-course\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\csharp-course\Dictionary\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
