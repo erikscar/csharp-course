@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\ExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{440BA087-ADE2-42D8-AE2D-8E1F254314DC}|ExtensionMethods\\ExtensionMethods.csproj|d:\\csharp-course\\extensionmethods\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440BA087-ADE2-42D8-AE2D-8E1F254314DC}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440BA087-ADE2-42D8-AE2D-8E1F254314DC}|ExtensionMethods\\ExtensionMethods.csproj|d:\\csharp-course\\extensionmethods\\extensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440BA087-ADE2-42D8-AE2D-8E1F254314DC}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{440BA087-ADE2-42D8-AE2D-8E1F254314DC}|ExtensionMethods\\ExtensionMethods.csproj|d:\\csharp-course\\extensionmethods\\extensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{440BA087-ADE2-42D8-AE2D-8E1F254314DC}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ExtensionMethods\\ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\csharp-course\\ExtensionMethods\\ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:01:34.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ExtensionMethods\\ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "D:\\csharp-course\\ExtensionMethods\\ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:40:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\ExtensionMethods\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "ExtensionMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:34:22.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
