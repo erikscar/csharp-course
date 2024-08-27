@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\Comparision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8D7DEA-803E-46A6-B0EA-3D535E138F17}|Comparision\\Comparision.csproj|d:\\csharp-course\\comparision\\comparision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8D7DEA-803E-46A6-B0EA-3D535E138F17}|Comparision\\Comparision.csproj|solutionrelative:comparision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8D7DEA-803E-46A6-B0EA-3D535E138F17}|Comparision\\Comparision.csproj|d:\\csharp-course\\comparision\\comparision\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8D7DEA-803E-46A6-B0EA-3D535E138F17}|Comparision\\Comparision.csproj|solutionrelative:comparision\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Comparision\\Comparision\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Comparision\\Entities\\Product.cs",
+              "ToolTip": "D:\\csharp-course\\Comparision\\Comparision\\Entities\\Product.cs",
+              "RelativeToolTip": "Comparision\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:16:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Comparision\\Comparision\\Program.cs",
+              "RelativeDocumentMoniker": "Comparision\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\Comparision\\Comparision\\Program.cs",
+              "RelativeToolTip": "Comparision\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:15:43.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\csharp-course\Comparision\Comparision\bin\Debug\net8.0\Comparision.exe
+D:\csharp-course\Comparision\Comparision\bin\Debug\net8.0\Comparision.deps.json
+D:\csharp-course\Comparision\Comparision\bin\Debug\net8.0\Comparision.runtimeconfig.json
+D:\csharp-course\Comparision\Comparision\bin\Debug\net8.0\Comparision.dll
+D:\csharp-course\Comparision\Comparision\bin\Debug\net8.0\Comparision.pdb
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.AssemblyInfoInputs.cache
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.AssemblyInfo.cs
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.csproj.CoreCompileInputs.cache
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.sourcelink.json
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.dll
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\refint\Comparision.dll
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.pdb
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\Comparision.genruntimeconfig.cache
+D:\csharp-course\Comparision\Comparision\obj\Debug\net8.0\ref\Comparision.dll
