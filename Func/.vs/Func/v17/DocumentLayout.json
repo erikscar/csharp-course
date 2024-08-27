@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\Func\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA10321E-E9A7-4E50-AE0C-F08037861CAE}|Func\\Func.csproj|d:\\csharp-course\\func\\func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA10321E-E9A7-4E50-AE0C-F08037861CAE}|Func\\Func.csproj|solutionrelative:func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA10321E-E9A7-4E50-AE0C-F08037861CAE}|Func\\Func.csproj|d:\\csharp-course\\func\\func\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA10321E-E9A7-4E50-AE0C-F08037861CAE}|Func\\Func.csproj|solutionrelative:func\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Func\\Func\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Func\\Entities\\Product.cs",
+              "ToolTip": "D:\\csharp-course\\Func\\Func\\Entities\\Product.cs",
+              "RelativeToolTip": "Func\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:08:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Func\\Func\\Program.cs",
+              "RelativeDocumentMoniker": "Func\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\Func\\Func\\Program.cs",
+              "RelativeToolTip": "Func\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:07:43.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

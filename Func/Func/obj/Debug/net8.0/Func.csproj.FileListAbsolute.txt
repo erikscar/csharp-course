@@ -1,0 +1,15 @@
+D:\csharp-course\Func\Func\bin\Debug\net8.0\Func.exe
+D:\csharp-course\Func\Func\bin\Debug\net8.0\Func.deps.json
+D:\csharp-course\Func\Func\bin\Debug\net8.0\Func.runtimeconfig.json
+D:\csharp-course\Func\Func\bin\Debug\net8.0\Func.dll
+D:\csharp-course\Func\Func\bin\Debug\net8.0\Func.pdb
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.AssemblyInfoInputs.cache
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.AssemblyInfo.cs
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.csproj.CoreCompileInputs.cache
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.sourcelink.json
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.dll
+D:\csharp-course\Func\Func\obj\Debug\net8.0\refint\Func.dll
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.pdb
+D:\csharp-course\Func\Func\obj\Debug\net8.0\Func.genruntimeconfig.cache
+D:\csharp-course\Func\Func\obj\Debug\net8.0\ref\Func.dll
