@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\Action\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBAB1D-F374-4F0D-BDDF-5B8BDB11760C}|Action\\Action.csproj|d:\\csharp-course\\action\\action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBAB1D-F374-4F0D-BDDF-5B8BDB11760C}|Action\\Action.csproj|solutionrelative:action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBAB1D-F374-4F0D-BDDF-5B8BDB11760C}|Action\\Action.csproj|d:\\csharp-course\\action\\action\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBAB1D-F374-4F0D-BDDF-5B8BDB11760C}|Action\\Action.csproj|solutionrelative:action\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Action\\Action\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Action\\Entities\\Product.cs",
+              "ToolTip": "D:\\csharp-course\\Action\\Action\\Entities\\Product.cs",
+              "RelativeToolTip": "Action\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:43:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\Action\\Action\\Program.cs",
+              "RelativeDocumentMoniker": "Action\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\Action\\Action\\Program.cs",
+              "RelativeToolTip": "Action\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:37:36.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

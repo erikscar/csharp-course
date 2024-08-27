@@ -1,0 +1,15 @@
+D:\csharp-course\Action\Action\bin\Debug\net8.0\Action.exe
+D:\csharp-course\Action\Action\bin\Debug\net8.0\Action.deps.json
+D:\csharp-course\Action\Action\bin\Debug\net8.0\Action.runtimeconfig.json
+D:\csharp-course\Action\Action\bin\Debug\net8.0\Action.dll
+D:\csharp-course\Action\Action\bin\Debug\net8.0\Action.pdb
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.AssemblyInfoInputs.cache
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.AssemblyInfo.cs
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.csproj.CoreCompileInputs.cache
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.sourcelink.json
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.dll
+D:\csharp-course\Action\Action\obj\Debug\net8.0\refint\Action.dll
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.pdb
+D:\csharp-course\Action\Action\obj\Debug\net8.0\Action.genruntimeconfig.cache
+D:\csharp-course\Action\Action\obj\Debug\net8.0\ref\Action.dll
