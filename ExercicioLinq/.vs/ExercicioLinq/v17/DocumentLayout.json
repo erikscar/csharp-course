@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp-course\\ExercicioLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17355CBF-C9BF-48C2-B6A2-9EBD1007837A}|ExercicioLinq\\ExercicioLinq.csproj|d:\\csharp-course\\exerciciolinq\\exerciciolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17355CBF-C9BF-48C2-B6A2-9EBD1007837A}|ExercicioLinq\\ExercicioLinq.csproj|solutionrelative:exerciciolinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17355CBF-C9BF-48C2-B6A2-9EBD1007837A}|ExercicioLinq\\ExercicioLinq.csproj|d:\\csharp-course\\exerciciolinq\\exerciciolinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17355CBF-C9BF-48C2-B6A2-9EBD1007837A}|ExercicioLinq\\ExercicioLinq.csproj|solutionrelative:exerciciolinq\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ExercicioLinq\\ExercicioLinq\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExercicioLinq\\Entities\\Product.cs",
+              "ToolTip": "D:\\csharp-course\\ExercicioLinq\\ExercicioLinq\\Entities\\Product.cs",
+              "RelativeToolTip": "ExercicioLinq\\Entities\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:40:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp-course\\ExercicioLinq\\ExercicioLinq\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioLinq\\Program.cs",
+              "ToolTip": "D:\\csharp-course\\ExercicioLinq\\ExercicioLinq\\Program.cs",
+              "RelativeToolTip": "ExercicioLinq\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:27:51.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

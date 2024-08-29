@@ -1,0 +1,15 @@
+D:\csharp-course\ExercicioLinq\ExercicioLinq\bin\Debug\net8.0\ExercicioLinq.exe
+D:\csharp-course\ExercicioLinq\ExercicioLinq\bin\Debug\net8.0\ExercicioLinq.deps.json
+D:\csharp-course\ExercicioLinq\ExercicioLinq\bin\Debug\net8.0\ExercicioLinq.runtimeconfig.json
+D:\csharp-course\ExercicioLinq\ExercicioLinq\bin\Debug\net8.0\ExercicioLinq.dll
+D:\csharp-course\ExercicioLinq\ExercicioLinq\bin\Debug\net8.0\ExercicioLinq.pdb
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.AssemblyInfoInputs.cache
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.AssemblyInfo.cs
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.csproj.CoreCompileInputs.cache
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.sourcelink.json
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.dll
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\refint\ExercicioLinq.dll
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.pdb
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ExercicioLinq.genruntimeconfig.cache
+D:\csharp-course\ExercicioLinq\ExercicioLinq\obj\Debug\net8.0\ref\ExercicioLinq.dll
